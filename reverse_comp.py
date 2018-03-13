@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Prompts user to keep enter a valid oligonucleotide sequence (comprised of A, C, G, T)
+Prompts user to keep entering a valid oligonucleotide sequence (comprised of A, C, G, T)
 and prints the reverse complement of the sequence. If an invalid character exists
 in the sequence, the program will stop prompting the user
 """ 
