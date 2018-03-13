@@ -1,2 +1,2 @@
 # Biocode
-Bioinformatic scripts
+Various Bioinformatics scripts
