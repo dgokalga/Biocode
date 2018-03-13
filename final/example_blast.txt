@@ -1,0 +1,3159 @@
+BLASTN 2.2.28+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+Reference for database indexing: Aleksandr Morgulis, George
+Coulouris, Yan Raytselis, Thomas L. Madden, Richa Agarwala,
+Alejandro A. Schaffer (2008), "Database Indexing for
+Production MegaBLAST Searches", Bioinformatics 24:1757-1764.
+
+
+RID: 05EN72CN01R
+
+
+Database: Nucleotide collection (nt)
+           19,024,455 sequences; 48,173,360,552 total letters
+Query= Arf1
+
+Length=614
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+ref|XM_005094338.1|  PREDICTED: Aplysia californica uncharacte...   1098   0.0   
+gb|EU829582.1|  Linum usitatissimum clone LU0017G02 mRNA sequence    375   2e-100
+ref|XM_005023737.1|  PREDICTED: Anas platyrhynchos ADP-ribosyl...    372   2e-99 
+ref|XM_004088641.1|  PREDICTED: Nomascus leucogenys ADP-ribosy...    364   4e-97 
+ref|XM_004088640.1|  PREDICTED: Nomascus leucogenys ADP-ribosy...    364   4e-97 
+ref|XM_004088639.1|  PREDICTED: Nomascus leucogenys ADP-ribosy...    364   4e-97 
+ref|XM_003252207.1|  PREDICTED: Nomascus leucogenys ADP-ribosy...    364   4e-97 
+gb|EU829048.1|  Linum usitatissimum clone LU0031C12 mRNA sequence    364   4e-97 
+ref|NM_001133245.1|  Pongo abelii ADP-ribosylation factor 3 (A...    364   4e-97 
+ref|XM_003939112.1|  PREDICTED: Saimiri boliviensis boliviensi...    359   2e-95 
+ref|XM_003939111.1|  PREDICTED: Saimiri boliviensis boliviensi...    359   2e-95 
+ref|XM_003939110.1|  PREDICTED: Saimiri boliviensis boliviensi...    359   2e-95 
+ref|XM_003906306.1|  PREDICTED: Papio anubis ADP-ribosylation ...    359   2e-95 
+ref|XM_003906305.1|  PREDICTED: Papio anubis ADP-ribosylation ...    359   2e-95 
+ref|XM_001104802.2|  PREDICTED: Macaca mulatta ADP-ribosylatio...    359   2e-95 
+dbj|AB220383.1|  Macaca fascicularis mRNA, clone QbsB-11372: s...    359   2e-95 
+ref|XM_004446938.1|  PREDICTED: Dasypus novemcinctus ADP-ribos...    348   4e-92 
+ref|NM_001015571.2|  Bos taurus ADP-ribosylation factor 3 (ARF...    348   4e-92 
+gb|BT020934.1|  Bos taurus ADP-ribosylation factor 3 (ARF3), m...    348   4e-92 
+ref|XM_005040511.1|  PREDICTED: Ficedula albicollis ADP-ribosy...    344   5e-91 
+ref|XM_004692792.1|  PREDICTED: Condylura cristata ADP-ribosyl...    344   5e-91 
+ref|XM_002194789.2|  PREDICTED: Taeniopygia guttata ADP-ribosy...    344   5e-91 
+ref|XM_004599350.1|  PREDICTED: Ochotona princeps ADP-ribosyla...    342   2e-90 
+ref|XM_002711065.1|  PREDICTED: Oryctolagus cuniculus ADP-ribo...    337   9e-89 
+ref|NM_001162545.1|  Ovis aries ADP-ribosylation factor 3 (ARF...    337   9e-89 
+ref|NM_001126681.1|  Xenopus (Silurana) tropicalis ADP-ribosyl...    337   9e-89 
+ref|XM_004274380.1|  PREDICTED: Orcinus orca ADP-ribosylation ...    331   4e-87 
+ref|XM_004313118.1|  PREDICTED: Tursiops truncatus ADP-ribosyl...    326   2e-85 
+ref|XM_001504136.2|  PREDICTED: Equus caballus ADP-ribosylatio...    326   2e-85 
+ref|XM_002752401.2|  PREDICTED: Callithrix jacchus ADP-ribosyl...    316   1e-82 
+ref|XM_003535988.1|  PREDICTED: Glycine max ADP-ribosylation f...    309   2e-80 
+dbj|AK286924.1|  Glycine max cDNA, clone: GMFL01-40-F14              309   2e-80 
+dbj|AK286518.1|  Glycine max cDNA, clone: GMFL01-30-F14              309   2e-80 
+ref|XM_004586336.1|  PREDICTED: Ochotona princeps ADP-ribosyla...    305   2e-79 
+ref|NM_001173559.1|  Salmo salar ADP-ribosylation factor 1 lik...    303   9e-79 
+gb|BT043627.1|  Salmo salar clone HM5_0244 ADP-ribosylation fa...    303   9e-79 
+ref|XM_003555742.1|  PREDICTED: Glycine max ADP-ribosylation f...    298   4e-77 
+ref|XM_003555741.1|  PREDICTED: Glycine max ADP-ribosylation f...    298   4e-77 
+dbj|AK286615.1|  Glycine max cDNA, clone: GMFL01-32-K15              298   4e-77 
+gb|BT057759.1|  Salmo salar clone ssal-rgb-527-288 ADP-ribosyl...    294   5e-76 
+ref|NM_001012248.2|  Danio rerio ADP-ribosylation factor 3b (a...    292   2e-75 
+gb|BC163292.1|  Danio rerio ADP-ribosylation factor 3b, mRNA (...    292   2e-75 
+tpg|BK007271.1|  TPA: Amblyomma variegatum ADP ribosylation fa...    287   9e-74 
+dbj|AK287022.1|  Glycine max cDNA, clone: GMFL01-42-E24              287   9e-74 
+ref|XM_003216952.1|  PREDICTED: Anolis carolinensis ADP-ribosy...    281   4e-72 
+ref|XM_002431325.1|  Pediculus humanus corporis ADP-ribosylati...    281   4e-72 
+ref|XM_005040510.1|  PREDICTED: Ficedula albicollis ADP-ribosy...    278   5e-71 
+ref|XM_003980625.1|  PREDICTED: Felis catus ADP-ribosylation f...    278   5e-71 
+ref|XM_005061367.1|  PREDICTED: Ficedula albicollis ADP-ribosy...    263   1e-66 
+ref|XM_003961069.1|  PREDICTED: Takifugu rubripes ADP-ribosyla...    243   2e-60 
+ref|XM_004891797.1|  PREDICTED: Heterocephalus glaber uncharac...    241   7e-60 
+ref|XM_002130518.2|  PREDICTED: Ciona intestinalis ADP-ribosyl...    237   9e-59 
+ref|XM_004891798.1|  PREDICTED: Heterocephalus glaber uncharac...    230   1e-56 
+gb|GQ279375.1|  Marsupenaeus japonicus ADP ribosylation factor...    226   2e-55 
+ref|XM_001899177.1|  Brugia malayi ADP-ribosylation factor 4 p...    213   1e-51 
+ref|NM_001272158.1|  Drosophila melanogaster ADP ribosylation ...    202   3e-48 
+ref|NM_079892.3|  Drosophila melanogaster ADP ribosylation fac...    202   3e-48 
+gb|FJ637149.1|  Synthetic construct Drosophila melanogaster cl...    202   3e-48 
+gb|FJ632736.1|  Synthetic construct Drosophila melanogaster cl...    202   3e-48 
+gb|AY071450.1|  Drosophila melanogaster RE53354 full length cDNA     202   3e-48 
+ref|XM_005061366.1|  PREDICTED: Ficedula albicollis ADP-ribosy...    185   3e-43 
+gb|BT082428.1|  Anoplopoma fimbria clone afim-evh-507-178 ADP-...    182   4e-42 
+ref|XM_002099605.1|  Drosophila yakuba Arf102F (Dyak\Arf102F),...    174   7e-40 
+ref|XM_001982651.1|  Drosophila erecta GG16407 (Dere\GG16407),...    174   7e-40 
+gb|AY231946.1|  Drosophila yakuba clone yak-em_Arf102F mRNA se...    174   7e-40 
+gb|AE014135.3|  Drosophila melanogaster chromosome 4, complete...    159   2e-35 
+gb|AC010577.5|  Drosophila melanogaster clone BACR22J20, compl...    159   2e-35 
+gb|L25062.1|DROARF2A  Drosophila melanogaster ADP-ribosylation...    159   2e-35 
+ref|XM_004891799.1|  PREDICTED: Heterocephalus glaber uncharac...    158   7e-35 
+emb|CR450743.3|  Zebrafish DNA sequence from clone CH211-157H1...    115   4e-22 
+gb|AC166090.23|  Glycine max clone gmw1-103e11, complete sequence    115   4e-22 
+emb|AL953886.9|  Zebrafish DNA sequence from clone CH211-241A1...    115   4e-22 
+emb|AL591389.5|  Zebrafish DNA sequence from clone BUSM1-202L1...    115   4e-22 
+gb|GQ483536.1|  Marsupenaeus japonicus ADP-ribosylation factor...  99.0    4e-17 
+ref|XM_790917.3|  PREDICTED: Strongylocentrotus purpuratus E3 ...  84.2    1e-12 
+ref|XM_001819859.2|  Aspergillus oryzae RIB40 ADP-ribosylation...  78.7    6e-11 
+ref|XM_002374515.1|  Aspergillus flavus NRRL3357 ADP-ribosylat...  78.7    6e-11 
+ref|XM_001186642.2|  PREDICTED: Strongylocentrotus purpuratus ...  76.8    2e-10 
+ref|XM_001399874.2|  Aspergillus niger CBS 513.88 ADP-ribosyla...  76.8    2e-10 
+dbj|AB224387.1|  Aspergillus oryzae cDNA, contig sequence: AoE...  76.8    2e-10 
+
+ALIGNMENTS
+>ref|XM_005094338.1| PREDICTED: Aplysia californica uncharacterized LOC101860729 (LOC101860729), 
+mRNA
+Length=2377
+
+ Score =  1098 bits (594),  Expect = 0.0
+ Identities = 594/594 (100%), Gaps = 0/594 (0%)
+ Strand=Plus/Plus
+
+Query  21    AACTGATCAAAATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCG  80
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  593   AACTGATCAAAATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCG  652
+
+Query  81    AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  653   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  712
+
+Query  141   TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  713   TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  772
+
+Query  201   AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  773   AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  832
+
+Query  261   TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACA  320
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  833   TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACA  892
+
+Query  321   GAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGA  380
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  893   GAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGA  952
+
+Query  381   GAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTG  440
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  953   GAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTG  1012
+
+Query  441   CAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGG  500
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1013  CAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGG  1072
+
+Query  501   CTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAATACTC  560
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1073  CTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAATACTC  1132
+
+Query  561   TAAAAAAGAAATCCTCATAATGAGTGGTTCTAGAGGCTTTTCTTTTTATTTTCC  614
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1133  TAAAAAAGAAATCCTCATAATGAGTGGTTCTAGAGGCTTTTCTTTTTATTTTCC  1186
+
+
+>gb|EU829582.1| Linum usitatissimum clone LU0017G02 mRNA sequence
+Length=858
+
+ Score =   375 bits (203),  Expect = 2e-100
+ Identities = 386/476 (81%), Gaps = 6/476 (1%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||||||| ||||||||||| | ||||| ||||| |||||||| |||||||||||| ||
+Sbjct  166  ATGAGAATTCTGATGGTTGGTCTCGATGCGGCTGGTAAGACCACCATCTTGTACAAGCTG  225
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            ||||| ||||| || ||||| || || || || ||||| |||||||| ||||| ||||| 
+Sbjct  226  AAACTTGGTGAGATCGTCACCACCATTCCTACCATTGGATTCAATGTGGAGACTGTGGAA  285
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            |||||||||||||||||||||||||||||||| || || |||||||| || |||||  | 
+Sbjct  286  TACAAGAACATCAGCTTCACAGTGTGGGATGTCGGGGGTCAAGACAAGATCCGACCATTG  345
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            |||||||| ||||| || ||||| || || ||||| |||||  | |||||||||||||||
+Sbjct  346  TGGAGGCACTATTTCCAAAACACTCAGGGTCTCATCTTTGTTGTGGACAGTAATGACAGA  405
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTG-ATGAGGATGCTGAATGAAGATGAACTGAG  381
+            ||  | |||| ||| || ||||| |||||| || |||||| |||| || ||||||||  |
+Sbjct  406  GATCGTGTTGTTGAGGCCAGAGATGAATTGCAT-AGGATGTTGAACGAGGATGAACTCCG  464
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+            ||||||  |  | || || || || ||||||||||||||||||||||| |||||||| ||
+Sbjct  465  AGATGCAGTGTTGCTCGTTTTCGCTAACAAACAGGATCTGCCAAATGCAATGAATGCCGC  524
+
+Query  442  AGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-G  500
+             || ||||| |||||||| ||||| |||||||| ||    || || ||||  |||||| |
+Sbjct  525  TGAGATCACTGACAAGCTCGGCCTCCACTCACTCCGCCAACGACACTGGTACATCCAGAG  584
+
+Query  501  CTACATGTGCCACAAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCTGTCCAA  555
+            | || ||||| |||   || || || ||| || ||||| ||||||||||| |||||
+Sbjct  585  C-ACCTGTGCTACATCAGGTGAGGGTCTT-TACGAAGGCCTGGATTGGCTCTCCAA  638
+
+
+>ref|XM_005023737.1| PREDICTED: Anas platyrhynchos ADP-ribosylation factor 1 (ARF1), 
+mRNA
+Length=1939
+
+ Score =   372 bits (201),  Expect = 2e-99
+ Identities = 401/501 (80%), Gaps = 0/501 (0%)
+ Strand=Plus/Plus
+
+Query  56   TTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCT  115
+            ||||| ||||||||||| |     |||||| | ||  | ||||||||| |||||||||| 
+Sbjct  59   TTCAAAGGCCTCTTTGGCAAAAAAGAAATGCGGATCCTCATGGTTGGTCTGGATGCTGCA  118
+
+Query  116  GGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACA  175
+            |||||||| || |||||||||||  ||||||| |||||||| || || || ||||| || 
+Sbjct  119  GGAAAGACTACTATCTTGTACAAACTGAAACTTGGTGAAATAGTAACTACTATCCCTACT  178
+
+Query  176  ATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTT  235
+            || || |||||||| || || || || |||||||||||||||||||||||||||||||| 
+Sbjct  179  ATAGGTTTCAATGTGGAAACGGTAGAATACAAGAACATCAGCTTCACAGTGTGGGATGTC  238
+
+Query  236  GGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTC  295
+            || ||||| || || ||  |||| || ||| | |||||||| |||||||||||||| || 
+Sbjct  239  GGCGGCCAGGATAAGATCAGACCGCTCTGGCGCCATTATTTCCAGAACACACAAGGTCTG  298
+
+Query  296  ATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATG  355
+            ||||||||| | ||||| |||||||||||| ||||    || || ||||||||  | |||
+Sbjct  299  ATTTTTGTGGTTGACAGCAATGACAGAGAACGAGTGAACGAGGCCAGAGAAGAGCTCATG  358
+
+Query  356  AGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAG  415
+            || ||| ||   |||||||| || ||||||||| |  |  | |||||||| |||||||||
+Sbjct  359  AGAATGTTGGCAGAAGATGAGCTTAGAGATGCCGTTTTATTAGTGTTTGCTAACAAACAG  418
+
+Query  416  GATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTT  475
+            || ||||| || || |||||||| ||||||||||||||||| ||||| ||||| || |||
+Sbjct  419  GACCTGCCCAACGCGATGAATGCAGCAGAAATCACAGACAAACTTGGACTGCATTCTCTT  478
+
+Query  476  CGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAA  535
+            |||    |  | ||||  |||||||| || |||||||| || ||||||||  | ||||||
+Sbjct  479  CGTCACAGGAACTGGTACATCCAGGCAACCTGTGCCACTAGCGGAGACGGTCTCTATGAA  538
+
+Query  536  GGACTGGATTGGCTGTCCAAT  556
+            |||||||| ||| ||||||||
+Sbjct  539  GGACTGGACTGGTTGTCCAAT  559
+
+
+>ref|XM_004088641.1| PREDICTED: Nomascus leucogenys ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=3923
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 387/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  194  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  253
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| |||||||||||||| |||||||
+Sbjct  254  AGATCGTCACCACCATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAGTATAAGAACA  313
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||||||||| ||||| || |
+Sbjct  314  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGACCCCTCTGGAGACACT  373
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  374  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  433
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  434  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCGGAGGACGAGCTCCGGGATGCTGTAC  493
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  494  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  553
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  554  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  613
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  614  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  673
+
+Query  570  A  570
+            |
+Sbjct  674  A  674
+
+
+>ref|XM_004088640.1| PREDICTED: Nomascus leucogenys ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=3898
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 387/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  169  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  228
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| |||||||||||||| |||||||
+Sbjct  229  AGATCGTCACCACCATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAGTATAAGAACA  288
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||||||||| ||||| || |
+Sbjct  289  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGACCCCTCTGGAGACACT  348
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  349  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  408
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  409  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCGGAGGACGAGCTCCGGGATGCTGTAC  468
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  469  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  528
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  529  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  588
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  589  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  648
+
+Query  570  A  570
+            |
+Sbjct  649  A  649
+
+
+>ref|XM_004088639.1| PREDICTED: Nomascus leucogenys ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=4026
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 387/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  297  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  356
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| |||||||||||||| |||||||
+Sbjct  357  AGATCGTCACCACCATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAGTATAAGAACA  416
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||||||||| ||||| || |
+Sbjct  417  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGACCCCTCTGGAGACACT  476
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  477  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  536
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  537  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCGGAGGACGAGCTCCGGGATGCTGTAC  596
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  597  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  656
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  657  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  716
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  717  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  776
+
+Query  570  A  570
+            |
+Sbjct  777  A  777
+
+
+>ref|XM_003252207.1| PREDICTED: Nomascus leucogenys ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=4128
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 387/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  399  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  458
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| |||||||||||||| |||||||
+Sbjct  459  AGATCGTCACCACCATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAGTATAAGAACA  518
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||||||||| ||||| || |
+Sbjct  519  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGACCCCTCTGGAGACACT  578
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  579  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  638
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  639  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCGGAGGACGAGCTCCGGGATGCTGTAC  698
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  699  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  758
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  759  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  818
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  819  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  878
+
+Query  570  A  570
+            |
+Sbjct  879  A  879
+
+
+>gb|EU829048.1| Linum usitatissimum clone LU0031C12 mRNA sequence
+Length=750
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 384/476 (81%), Gaps = 6/476 (1%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||||||| ||||||||||| | ||||| ||||| |||||||| |||||||||||| ||
+Sbjct  166  ATGAGAATTCTGATGGTTGGTCTCGATGCGGCTGGTAAGACCACCATCTTGTACAAGCTG  225
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            ||||| ||||| || ||| | || || || || ||||| |||||||| ||||| ||||| 
+Sbjct  226  AAACTTGGTGAGATCGTCTCCACCATTCCTACCATTGGATTCAATGTGGAGACTGTGGAA  285
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            |||||||||||||||||||||||||||||||| || || |||||||| || |||||  | 
+Sbjct  286  TACAAGAACATCAGCTTCACAGTGTGGGATGTCGGGGGTCAAGACAAGATCCGACCATTG  345
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            |||||||| ||||| || ||||| || || ||||| |||||  | |||||||||||||||
+Sbjct  346  TGGAGGCACTATTTCCAAAACACTCAGGGTCTCATCTTTGTTGTGGACAGTAATGACAGA  405
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTG-ATGAGGATGCTGAATGAAGATGAACTGAG  381
+            ||  | |||| ||| || ||||| |||||| || |||||| |||| || ||||||||  |
+Sbjct  406  GATCGTGTTGTTGAGGCCAGAGATGAATTGCAT-AGGATGTTGAACGAGGATGAACTCCG  464
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+            ||||||  |  | || || || || ||||||||||||||| ||||||| |||||||| ||
+Sbjct  465  AGATGCAGTGTTGCTCGTTTTCGCTAACAAACAGGATCTGTCAAATGCAATGAATGCCGC  524
+
+Query  442  AGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-G  500
+             || ||||| |||||||| ||||| |||||||| ||    || || ||||  |||||| |
+Sbjct  525  TGAGATCACTGACAAGCTCGGCCTCCACTCACTCCGCCAACGACACTGGTACATCCAGAG  584
+
+Query  501  CTACATGTGCCACAAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCTGTCCAA  555
+            | || ||||| |||   || || || ||| || ||||| ||||||||||| |||||
+Sbjct  585  C-ACCTGTGCTACATCAGGTGAGGGTCTT-TACGAAGGCCTGGATTGGCTCTCCAA  638
+
+
+>ref|NM_001133245.1| Pongo abelii ADP-ribosylation factor 3 (ARF3), mRNA
+ emb|CR860810.1| Pongo abelii mRNA; cDNA DKFZp469P1914 (from clone DKFZp469P1914)
+Length=3605
+
+ Score =   364 bits (197),  Expect = 4e-97
+ Identities = 387/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  |||||||||| || |||||||| ||| | |||||| |||||||||| |
+Sbjct  349  TGATGGTGGGCCTGGATGCTGCAGGGAAGACCACCATCCTATACAAGCTGAAACTGGGGG  408
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| ||||||||||| || |||||||
+Sbjct  409  AGATCGTCACGACCATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAATATAAGAACA  468
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||||||||| ||||| || |
+Sbjct  469  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGACCCCTCTGGAGACACT  528
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||| | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  529  ACTTCCAGAACACCCAAGGATTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  588
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  589  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCGGAGGACGAGCTCCGGGATGCTGTAC  648
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  649  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  708
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  709  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  768
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  769  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  828
+
+Query  570  A  570
+            |
+Sbjct  829  A  829
+
+
+>ref|XM_003939112.1| PREDICTED: Saimiri boliviensis boliviensis ADP-ribosylation factor 
+3, transcript variant 3 (ARF3), mRNA
+Length=1417
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  169  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  228
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || ||||||||||| || |||||||
+Sbjct  229  AGATAGTCACCACCATCCCTACCATTGGGTTCAACGTGGAGACAGTGGAATATAAGAACA  288
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  289  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  348
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            |||| |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  349  ATTTCCAGAACACTCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  408
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||||||||||   || || || ||  | |||||  | |
+Sbjct  409  ATGAGGCCCGGGAAGAGCTGATGAGGATGCTGGCAGAGGACGAGCTCCGGGATGCTGTGC  468
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  469  TCCTTGTTTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  528
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  529  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  588
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || || ||  | |||||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  589  CCAGCGGGGATGGGCTGTATGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  648
+
+Query  570  A  570
+            |
+Sbjct  649  A  649
+
+
+>ref|XM_003939111.1| PREDICTED: Saimiri boliviensis boliviensis ADP-ribosylation factor 
+3, transcript variant 2 (ARF3), mRNA
+Length=1549
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  301  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  360
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || ||||||||||| || |||||||
+Sbjct  361  AGATAGTCACCACCATCCCTACCATTGGGTTCAACGTGGAGACAGTGGAATATAAGAACA  420
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  421  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  480
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            |||| |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  481  ATTTCCAGAACACTCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  540
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||||||||||   || || || ||  | |||||  | |
+Sbjct  541  ATGAGGCCCGGGAAGAGCTGATGAGGATGCTGGCAGAGGACGAGCTCCGGGATGCTGTGC  600
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  601  TCCTTGTTTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  660
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  661  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  720
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || || ||  | |||||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  721  CCAGCGGGGATGGGCTGTATGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  780
+
+Query  570  A  570
+            |
+Sbjct  781  A  781
+
+
+>ref|XM_003939110.1| PREDICTED: Saimiri boliviensis boliviensis ADP-ribosylation factor 
+3, transcript variant 1 (ARF3), mRNA
+Length=1622
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  374  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  433
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || ||||||||||| || |||||||
+Sbjct  434  AGATAGTCACCACCATCCCTACCATTGGGTTCAACGTGGAGACAGTGGAATATAAGAACA  493
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  494  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  553
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            |||| |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  554  ATTTCCAGAACACTCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  613
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||||||||||   || || || ||  | |||||  | |
+Sbjct  614  ATGAGGCCCGGGAAGAGCTGATGAGGATGCTGGCAGAGGACGAGCTCCGGGATGCTGTGC  673
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||| ||||| || |||||||
+Sbjct  674  TCCTTGTTTTTGCAAACAAACAGGATCTGCCTAATGCTATGAACGCTGCTGAGATCACAG  733
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  734  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  793
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || || ||  | |||||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  794  CCAGCGGGGATGGGCTGTATGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  853
+
+Query  570  A  570
+            |
+Sbjct  854  A  854
+
+
+>ref|XM_003906306.1| PREDICTED: Papio anubis ADP-ribosylation factor 3 (ARF3), mRNA
+Length=4008
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  296  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  355
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||| |||||||| |||||||||||||| |||||||
+Sbjct  356  AGATCGTCACCACCATCCCTACCATTGGATTCAATGTGGAGACAGTGGAGTATAAGAACA  415
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  416  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  475
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  476  ACTTCCAGAACACCCAAGGGTTAATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  535
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  536  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCAGAGGACGAGCTCCGGGATGCTGTAC  595
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||||||||| || |||||||
+Sbjct  596  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAATGCTGCTGAGATCACAG  655
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  656  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  715
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  716  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  775
+
+Query  570  A  570
+            |
+Sbjct  776  A  776
+
+
+>ref|XM_003906305.1| PREDICTED: Papio anubis ADP-ribosylation factor 3 (ARF3), mRNA
+Length=3920
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  208  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  267
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||| |||||||| |||||||||||||| |||||||
+Sbjct  268  AGATCGTCACCACCATCCCTACCATTGGATTCAATGTGGAGACAGTGGAGTATAAGAACA  327
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  328  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  387
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  388  ACTTCCAGAACACCCAAGGGTTAATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  447
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  448  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCAGAGGACGAGCTCCGGGATGCTGTAC  507
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||||||||| || |||||||
+Sbjct  508  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAATGCTGCTGAGATCACAG  567
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  568  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  627
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  628  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  687
+
+Query  570  A  570
+            |
+Sbjct  688  A  688
+
+
+>ref|XM_001104802.2| PREDICTED: Macaca mulatta ADP-ribosylation factor 3-like, transcript 
+variant 3 (LOC708716), mRNA
+Length=4003
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  514  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  573
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||| |||||||| |||||||||||||| |||||||
+Sbjct  574  AGATCGTCACCACCATCCCTACCATTGGATTCAATGTGGAGACAGTGGAGTATAAGAACA  633
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  634  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  693
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  694  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  753
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  754  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCAGAGGACGAGCTCCGGGATGCTGTAC  813
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||||||||| || |||||||
+Sbjct  814  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAATGCTGCTGAGATCACAG  873
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  874  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  933
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  934  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  993
+
+Query  570  A  570
+            |
+Sbjct  994  A  994
+
+
+>dbj|AB220383.1| Macaca fascicularis mRNA, clone QbsB-11372: similar to Homo sapiens 
+ADP-ribosylation factor 3(ARF3), mRNA, NM_001659.1
+Length=1082
+
+ Score =   359 bits (194),  Expect = 2e-95
+ Identities = 386/481 (80%), Gaps = 3/481 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| | |||||| |||||||||| |
+Sbjct  311  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTATACAAGCTGAAACTGGGGG  370
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||| |||||||| |||||||||||||| |||||||
+Sbjct  371  AGATCGTCACCACCATCCCTACCATTGGATTCAATGTGGAGACAGTGGAGTATAAGAACA  430
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  431  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  490
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  491  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  550
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | |||||  ||||||| ||||||   || || || ||  | |||||  | |
+Sbjct  551  ATGAGGCCCGGGAAGAGCTGATGAGAATGCTGGCAGAGGACGAGCTCCGGGATGCTGTAC  610
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||||||||| || |||||||
+Sbjct  611  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAATGCTGCTGAGATCACAG  670
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| |||||||| || ||||||   ||| | ||||  || ||||| || |||||||
+Sbjct  671  ACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTACATTCAGGCCACCTGTGCCA  730
+
+Query  513  CAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGA  569
+            | || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| ||||
+Sbjct  731  CCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGA  790
+
+Query  570  A  570
+            |
+Sbjct  791  A  791
+
+
+>ref|XM_004446938.1| PREDICTED: Dasypus novemcinctus ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=1247
+
+ Score =   348 bits (188),  Expect = 4e-92
+ Identities = 377/470 (80%), Gaps = 5/470 (1%)
+ Strand=Plus/Plus
+
+Query  107  GATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATTGTCACAACG  166
+            |||||||| ||||||||||| ||| |||| ||| ||||||| || || || ||||| || 
+Sbjct  396  GATGCTGCAGGAAAGACCACCATCCTGTATAAGCTGAAACTAGGGGAGATCGTCACCACC  455
+
+Query  167  ATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTG  226
+            ||||| || |||||||| ||||| ||||||||||||||||||||||||||||||||||| 
+Sbjct  456  ATCCCCACCATTGGGTTTAATGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTT  515
+
+Query  227  TGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACA  286
+            |||||||| |||||||| ||||| ||||| ||||| ||||| ||||| || |||||||| 
+Sbjct  516  TGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACATTACTTCCAGAACACC  575
+
+Query  287  CAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAA  346
+            |||||  | ||||||||| | ||||| || ||  | ||  ||||   ||| ||  | || 
+Sbjct  576  CAAGGCTTGATTTTTGTGGTCGACAGCAACGATCGGGAGCGAGTAAATGAGGCTCGGGAG  635
+
+Query  347  GAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCG  406
+            ||  ||||||||||| ||   |||||||| ||  | |||||  | |||||||| ||||| 
+Sbjct  636  GAGCTGATGAGGATGTTGGCGGAAGATGAGCTCCGGGATGCTGTGCTCCTTGTCTTTGCA  695
+
+Query  407  AACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTG  466
+            ||||||||||||||||| ||||| |||||||| || || ||||| |||||||| ||||||
+Sbjct  696  AACAAACAGGATCTGCCTAATGCAATGAATGCAGCCGAGATCACGGACAAGCTGGGCCTG  755
+
+Query  467  CACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGG  525
+            || || || |||   || ||| ||||  || |||||||| |||||||| || || |||||
+Sbjct  756  CATTCCCTGCGTCACCG-CAACTGGTACATTCAGGCTACCTGTGCCACCAGCGGTGACGG  814
+
+Query  526  CTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGAAAT  572
+              | || ||||| ||||| |||||| ||||| | ||| |||| |||||||
+Sbjct  815  GCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGAAAT  864
+
+
+>ref|NM_001015571.2| Bos taurus ADP-ribosylation factor 3 (ARF3), mRNA
+ gb|BC120186.1| Bos taurus ADP-ribosylation factor 3, mRNA (cDNA clone MGC:142561 
+IMAGE:8254989), complete cds
+Length=1030
+
+ Score =   348 bits (188),  Expect = 4e-92
+ Identities = 385/482 (80%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||||||| |||||||||| |
+Sbjct  311  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTACAAGCTGAAACTGGGCG  370
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| ||||||||||||||||||||||
+Sbjct  371  AGATCGTCACCACCATCCCCACCATTGGGTTCAATGTGGAGACAGTGGAGTACAAGAACA  430
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  431  TCAGCTTCACAGTTTGGGATGTAGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  490
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  ||||  ||||  
+Sbjct  491  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGAGAGCGAGTAA  550
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||||||   || ||||| ||  | |||||  | |
+Sbjct  551  ATGAGGCCCGGGAGGAGCTGATGAGGATGCTGGCGGAGGATGAGCTCCGGGATGCTGTGC  610
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| |||||||||||| |||| ||||| ||||||||||| || |||||||
+Sbjct  611  TCCTTGTCTTTGCAAACAAACAGGATTTGCCTAATGCCATGAATGCTGCTGAGATCACAG  670
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||| | |||||||| || || ||    || ||| ||||  || ||||| || ||||||
+Sbjct  671  ACAAGTTGGGCCTGCATTCCCTGCGCCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  729
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  730  ACCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  789
+
+Query  569  AA  570
+            ||
+Sbjct  790  AA  791
+
+
+>gb|BT020934.1| Bos taurus ADP-ribosylation factor 3 (ARF3), mRNA, complete cds
+Length=854
+
+ Score =   348 bits (188),  Expect = 4e-92
+ Identities = 385/482 (80%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||||||| |||||||||| |
+Sbjct  150  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTACAAGCTGAAACTGGGCG  209
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| ||||||||||||||||||||||
+Sbjct  210  AGATCGTCACCACCATCCCCACCATTGGGTTCAATGTGGAGACAGTGGAGTACAAGAACA  269
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  270  TCAGCTTCACAGTTTGGGATGTAGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  329
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  ||||  ||||  
+Sbjct  330  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGAGAGCGAGTAA  389
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||||||   || ||||| ||  | |||||  | |
+Sbjct  390  ATGAGGCCCGGGAGGAGCTGATGAGGATGCTGGCGGAGGATGAGCTCCGGGATGCTGTGC  449
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| |||||||||||| |||| ||||| ||||||||||| || |||||||
+Sbjct  450  TCCTTGTCTTTGCAAACAAACAGGATTTGCCTAATGCCATGAATGCTGCTGAGATCACAG  509
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||| | |||||||| || || ||    || ||| ||||  || ||||| || ||||||
+Sbjct  510  ACAAGTTGGGCCTGCATTCCCTGCGCCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  568
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  569  ACCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  628
+
+Query  569  AA  570
+            ||
+Sbjct  629  AA  630
+
+
+>ref|XM_005040511.1| PREDICTED: Ficedula albicollis ADP-ribosylation factor 1 (ARF1), 
+transcript variant X2, mRNA
+Length=907
+
+ Score =   344 bits (186),  Expect = 5e-91
+ Identities = 426/545 (78%), Gaps = 3/545 (1%)
+ Strand=Plus/Plus
+
+Query  15   AGTGAGAACTGA--TCAA-AATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTG  71
+            |||||||||  |  ||||  ||||| || || ||||||   || ||||| ||||| ||||
+Sbjct  127  AGTGAGAACATATCTCAACCATGGGAAATATTTTTGCTAACCTCTTCAAAGGCCTTTTTG  186
+
+Query  72   GGAGGTCCGAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCT  131
+            | |     |||||| | ||| | ||||||||  |||||||||| |||||||| || || |
+Sbjct  187  GCAAAAAAGAAATGCGTATTCTAATGGTTGGCCTGGATGCTGCAGGAAAGACAACTATTT  246
+
+Query  132  TGTACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAG  191
+            |||||||  | ||||| |||||||| || || || || || || || || |||||||| |
+Sbjct  247  TGTACAAACTTAAACTTGGTGAAATAGTAACTACTATTCCTACTATAGGTTTCAATGTGG  306
+
+Query  192  AGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAA  251
+            | ||||| || ||||||||||||||||||||||||||||| || ||||| || ||||| |
+Sbjct  307  AAACAGTAGAATACAAGAACATCAGCTTCACAGTGTGGGACGTGGGTGGTCAGGACAAGA  366
+
+Query  252  TTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACA  311
+            |  ||||||| ||| | || || || |||||||||||||| || ||||||||| | ||||
+Sbjct  367  TCAGACCCCTCTGGCGCCACTACTTCCAGAACACACAAGGTCTGATTTTTGTGGTTGACA  426
+
+Query  312  GTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAG  371
+            | |||||||||||| | ||    || || ||||||||  | ||||| ||| ||   ||||
+Sbjct  427  GCAATGACAGAGAACGTGTGAACGAGGCCAGAGAAGAGCTTATGAGAATGTTGGCAGAAG  486
+
+Query  372  ATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTA  431
+            |||| || ||||||||  |  |  | |||||||| ||||||||||| ||||| || || |
+Sbjct  487  ATGAGCTCAGAGATGCTGTTTTATTAGTGTTTGCTAACAAACAGGACCTGCCGAACGCCA  546
+
+Query  432  TGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGT  491
+            ||||||| ||||||||||||||||| ||||| ||||| || |||||     |  | ||||
+Sbjct  547  TGAATGCAGCAGAAATCACAGACAAACTTGGACTGCATTCTCTTCGCCACAGGAACTGGT  606
+
+Query  492  TTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGT  551
+              |||||||| || |||||||| |||||||||||  | |||||||||||||| ||| |||
+Sbjct  607  ACATCCAGGCAACCTGTGCCACTAGTGGAGACGGTCTCTATGAAGGACTGGACTGGTTGT  666
+
+Query  552  CCAAT  556
+            |||||
+Sbjct  667  CCAAT  671
+
+
+>ref|XM_004692792.1| PREDICTED: Condylura cristata ADP-ribosylation factor 3 (ARF3), 
+transcript variant X1, mRNA
+Length=1033
+
+ Score =   344 bits (186),  Expect = 5e-91
+ Identities = 375/468 (80%), Gaps = 5/468 (1%)
+ Strand=Plus/Plus
+
+Query  107  GATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATTGTCACAACG  166
+            |||||||| || |||||||| ||| |||| ||| |||||||||| || || ||||| || 
+Sbjct  333  GATGCTGCAGGGAAGACCACCATCCTGTATAAGCTGAAACTGGGGGAGATCGTCACCACC  392
+
+Query  167  ATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTG  226
+            ||||| || |||||||||||||| ||||||||||||||||||||||||||||||||||| 
+Sbjct  393  ATCCCTACCATTGGGTTCAATGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTT  452
+
+Query  227  TGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACA  286
+            ||||| || |||||||| ||||| |||||||| || ||||| || || || |||||||| 
+Sbjct  453  TGGGACGTGGGTGGCCAGGACAAGATTCGACCTCTCTGGAGACACTACTTCCAGAACACC  512
+
+Query  287  CAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAA  346
+            |||||  | || |||||| | ||||| |||||  | ||  ||||   ||| ||  | || 
+Sbjct  513  CAAGGGTTGATATTTGTGGTTGACAGCAATGATCGGGAGCGAGTCAATGAGGCCCGGGAG  572
+
+Query  347  GAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCG  406
+            ||  ||||||||||||||   || ||||||||  | |||||  | ||||| || ||||| 
+Sbjct  573  GAGCTGATGAGGATGCTGGCAGAGGATGAACTTCGGGATGCTGTGCTCCTGGTTTTTGCA  632
+
+Query  407  AACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTG  466
+            |||||||||||| |||| || |||||||| ||||| || |||||||||||||| ||||||
+Sbjct  633  AACAAACAGGATTTGCCCAACGCTATGAACGCTGCTGAGATCACAGACAAGCTGGGCCTG  692
+
+Query  467  CACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGG  525
+            ||||| || |||   || ||| ||||  || ||||| || |||||||| || || |||||
+Sbjct  693  CACTCCCTGCGTCACCG-CAACTGGTACATTCAGGCCACCTGTGCCACCAGCGGGGACGG  751
+
+Query  526  CTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAGAA  570
+              | |||||||| ||||| |||||| ||||| | ||| |||| |||||
+Sbjct  752  GCTGTATGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAGAA  799
+
+
+>ref|XM_002194789.2| PREDICTED: Taeniopygia guttata ADP-ribosylation factor 1 (ARF1), 
+mRNA
+Length=2056
+
+ Score =   344 bits (186),  Expect = 5e-91
+ Identities = 426/545 (78%), Gaps = 3/545 (1%)
+ Strand=Plus/Plus
+
+Query  15   AGTGAGAACTGA--TCAA-AATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTG  71
+            |||||||||  |  ||||  ||||| || || ||||||   || ||||| ||||| ||||
+Sbjct  64   AGTGAGAACATATCTCAATCATGGGAAATATTTTTGCTAACCTCTTCAAAGGCCTTTTTG  123
+
+Query  72   GGAGGTCCGAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCT  131
+            | |     |||||| | ||| | ||||||||  |||||||||| |||||||| || || |
+Sbjct  124  GCAAAAAAGAAATGCGTATTCTAATGGTTGGCCTGGATGCTGCAGGAAAGACAACTATTT  183
+
+Query  132  TGTACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAG  191
+            | |||||  | ||||| |||||||| || || || || || || || || |||||||| |
+Sbjct  184  TATACAAACTTAAACTTGGTGAAATAGTAACTACTATTCCTACTATAGGTTTCAATGTGG  243
+
+Query  192  AGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAA  251
+            | ||||| || |||||||||||||||||||||||||||||||| || || || ||||| |
+Sbjct  244  AAACAGTAGAATACAAGAACATCAGCTTCACAGTGTGGGATGTGGGCGGTCAGGACAAGA  303
+
+Query  252  TTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACA  311
+            |  |||| || ||| | || || || |||||||||||||| || ||||||||| | ||||
+Sbjct  304  TCAGACCACTGTGGCGCCACTACTTCCAGAACACACAAGGTCTGATTTTTGTGGTTGACA  363
+
+Query  312  GTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAG  371
+            | |||||||||||| | ||    || || ||||||||  | ||||||||| ||   ||||
+Sbjct  364  GCAATGACAGAGAACGTGTGAACGAGGCCAGAGAAGAGCTTATGAGGATGTTGGCAGAAG  423
+
+Query  372  ATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTA  431
+            |||| || ||||||||  |  |  | |||||||| ||||||||||| ||||| || || |
+Sbjct  424  ATGAGCTCAGAGATGCTGTTTTATTAGTGTTTGCTAACAAACAGGACCTGCCGAACGCCA  483
+
+Query  432  TGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGT  491
+            ||||||| ||||||||||||||||| ||||| ||||| || ||||||    |  | ||||
+Sbjct  484  TGAATGCAGCAGAAATCACAGACAAACTTGGACTGCATTCTCTTCGTCACAGGAACTGGT  543
+
+Query  492  TTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGT  551
+              |||||||| || |||||||| |||||||||||  | |||||||||||||| ||| |||
+Sbjct  544  ACATCCAGGCAACCTGTGCCACTAGTGGAGACGGTCTCTATGAAGGACTGGACTGGTTGT  603
+
+Query  552  CCAAT  556
+            |||||
+Sbjct  604  CCAAT  608
+
+
+>ref|XM_004599350.1| PREDICTED: Ochotona princeps ADP-ribosylation factor 3 (ARF3), 
+transcript variant X1, mRNA
+Length=889
+
+ Score =   342 bits (185),  Expect = 2e-90
+ Identities = 384/482 (80%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  |||||||||| || ||||| || ||| |||||||| |||| ||||| |
+Sbjct  155  TGATGGTGGGCCTGGATGCTGCAGGGAAGACGACCATCCTGTACAAGCTGAAGCTGGGCG  214
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || || || ||||| ||||||||||
+Sbjct  215  AGATCGTCACCACCATCCCTACCATTGGGTTCAACGTGGAAACCGTGGAATACAAGAACA  274
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||||||||| ||||| || || ||||| || |
+Sbjct  275  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAAGACAAGATTCGGCCTCTCTGGAGACACT  334
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||| | ||  ||||  
+Sbjct  335  ACTTCCAGAACACCCAAGGCTTGATATTTGTGGTCGACAGCAATGACCGGGAGCGAGTAA  394
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+              || ||  | |||||| ||||||||||||||   || || |||||  | |||||  | |
+Sbjct  395  ACGAGGCCCGGGAAGAACTGATGAGGATGCTGGCAGAGGACGAACTCCGGGATGCTGTGC  454
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| ||||||||||||||||| || ||||| |
+Sbjct  455  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAATGCTATGAATGCTGCTGAGATCACGG  514
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||||| ||||| || || || |||   || ||| ||||  || ||||| || ||||||
+Sbjct  515  ACAAGCTGGGCCTCCATTCCCTGCGTCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  573
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || ||||| ||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  574  ACCAGCGGAGATGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  633
+
+Query  569  AA  570
+            ||
+Sbjct  634  AA  635
+
+
+>ref|XM_002711065.1| PREDICTED: Oryctolagus cuniculus ADP-ribosylation factor 3 (LOC100348555), 
+mRNA
+Length=546
+
+ Score =   337 bits (182),  Expect = 9e-89
+ Identities = 383/482 (79%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  |||||||||| || |||||||| ||| |||||||| |||| ||||| |
+Sbjct  62   TGATGGTGGGGCTGGATGCTGCGGGGAAGACCACCATCCTGTACAAGCTGAAGCTGGGCG  121
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || || |||||||| || ||||| |||||||| |||||||
+Sbjct  122  AGATCGTCACCACCATCCCTACCATCGGGTTCAACGTGGAGACGGTGGAGTATAAGAACA  181
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||||||||||||||| |||||||| ||||| ||||| ||||| ||||| || |
+Sbjct  182  TCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATTCGGCCCCTCTGGAGACACT  241
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||| | ||  ||||  
+Sbjct  242  ACTTCCAGAACACTCAAGGGTTGATATTTGTGGTTGACAGCAATGACCGGGAGCGAGTAA  301
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||| ||||| ||||||||   || || |||||  | |||||  | |
+Sbjct  302  ATGAGGCCCGGGAGGAACTGATGCGGATGCTGGCGGAGGACGAACTCCGGGATGCTGTGC  361
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||||||||||||||| || |||||||||||||| || ||||| |
+Sbjct  362  TCCTTGTCTTTGCAAACAAACAGGATCTGCCTAACGCTATGAATGCTGCTGAGATCACGG  421
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||||| |||||||| || || |||   || ||| ||||  || ||||| || ||||||
+Sbjct  422  ACAAGCTGGGCCTGCATTCCCTACGTCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  480
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || || ||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  481  ACCAGCGGGGATGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  540
+
+Query  569  AA  570
+            ||
+Sbjct  541  AA  542
+
+
+>ref|NM_001162545.1| Ovis aries ADP-ribosylation factor 3 (ARF3), mRNA
+ gb|FJ969413.1| Ovis aries ADP-ribosylation factor 3 (ARF3) mRNA, complete cds
+Length=546
+
+ Score =   337 bits (182),  Expect = 9e-89
+ Identities = 383/482 (79%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||||||| |||||||||| |
+Sbjct  62   TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTACAAGCTGAAACTGGGCG  121
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || |||||||||||||| ||||||||||||||||||||||
+Sbjct  122  AGATCGTCACCACCATCCCCACCATTGGGTTCAATGTGGAGACAGTGGAGTACAAGAACA  181
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  182  TCAGCTTCACAGTTTGGGATGTGGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  241
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  ||||  ||||  
+Sbjct  242  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGAGAGCGAGTAA  301
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||||||   || ||||| ||  | |||||  | |
+Sbjct  302  ATGAGGCCCGGGAGGAGCTGATGAGGATGCTGGCGGAGGATGAGCTCCGGGATGCTGTGC  361
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| |||||||||||  |||| ||||| |||||||| || || |||||||
+Sbjct  362  TCCTTGTCTTTGCAAACAAACAGGACTTGCCTAATGCCATGAATGCCGCTGAGATCACAG  421
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||||| ||||||||||| || ||    || ||| ||||  || |||||  | ||||||
+Sbjct  422  ACAAGCTGGGCCTGCACTCCCTGCGCCACCG-CAACTGGTACATTCAGGCACCCTGTGCC  480
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || |||||  | || ||||| ||||| |||||| ||||  | ||| |||| |||
+Sbjct  481  ACCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAACCAGCTCAAAAACAAG  540
+
+Query  569  AA  570
+            ||
+Sbjct  541  AA  542
+
+
+>ref|NM_001126681.1| Xenopus (Silurana) tropicalis ADP-ribosylation factor 3 (arf3), 
+mRNA
+ gb|BC159149.1| Xenopus tropicalis hypothetical protein LOC100145191, mRNA (cDNA 
+clone MGC:172716 IMAGE:7679607), complete cds
+Length=6148
+
+ Score =   337 bits (182),  Expect = 9e-89
+ Identities = 375/471 (80%), Gaps = 2/471 (0%)
+ Strand=Plus/Plus
+
+Query  80   GAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAG  139
+            |||||| ||||  | ||||| ||  | |||||||| |||||||| || ||||||||||| 
+Sbjct  157  GAAATGCGAATACTCATGGTGGGACTTGATGCTGCAGGAAAGACAACTATCTTGTACAAA  216
+
+Query  140  TTGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTG  199
+             | || || || |||||||| || || || || || || || || ||||| ||||| |||
+Sbjct  217  CTTAAGCTTGGAGAAATTGTGACTACTATACCCACCATAGGCTTTAATGTGGAGACTGTG  276
+
+Query  200  GAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCC  259
+            ||||||||||| ||||||||||||||||||||||| || ||||||||||| || || || 
+Sbjct  277  GAGTACAAGAATATCAGCTTCACAGTGTGGGATGTGGGCGGCCAAGACAAGATCCGCCCA  336
+
+Query  260  CTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            |||||||||||||| || |||||||| || ||  | || |||||| | ||||| ||||| 
+Sbjct  337  CTTTGGAGGCATTACTTCCAGAACACTCAGGGGTTAATATTTGTGGTGGACAGCAATGAT  396
+
+Query  320  AGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTG  379
+             ||||| ||||   ||| ||  | |||||| ||||||||||||||   || |||||  ||
+Sbjct  397  CGAGAACGAGTGAATGAGGCCCGTGAAGAACTGATGAGGATGCTGGCAGAGGATGAGTTG  456
+
+Query  380  AGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCT  439
+            || |||||  |  | ||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  457  AGGGATGCAGTGTTGCTTGTTTTTGCTAACAAACAGGATCTGCCAAATGCTATGAATGCT  516
+
+Query  440  GCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCA  498
+            ||||| || ||||||||||| |||||||| || || ||    || ||| ||||  |||||
+Sbjct  517  GCAGAGATAACAGACAAGCTGGGCCTGCATTCTCTCCGCCACCG-CAACTGGTACATCCA  575
+
+Query  499  GGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCT  549
+             || || || ||||| ||||| || ||| | |||||||| ||||| |||||
+Sbjct  576  AGCAACTTGCGCCACCAGTGGCGATGGCCTGTATGAAGGGCTGGACTGGCT  626
+
+
+>ref|XM_004274380.1| PREDICTED: Orcinus orca ADP-ribosylation factor 3 (ARF3), mRNA
+Length=1412
+
+ Score =   331 bits (179),  Expect = 4e-87
+ Identities = 382/482 (79%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||||||| | |||||||| |
+Sbjct  313  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTACAAGCTAAAACTGGGCG  372
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || ||||||||||||||||||||||
+Sbjct  373  AGATCGTCACCACCATCCCCACCATTGGGTTCAACGTGGAGACAGTGGAGTACAAGAACA  432
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  433  TCAGCTTCACAGTCTGGGATGTGGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  492
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  493  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  552
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||||||   || ||||| ||  | |||||  | |
+Sbjct  553  ATGAGGCCCGGGAGGAGCTGATGAGGATGCTGGCAGAGGATGAGCTCCGGGATGCTGTGC  612
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||| |||||| |||| ||||||||||| ||||| || |||||||
+Sbjct  613  TCCTTGTCTTTGCAAACAAGCAGGATTTGCCTAATGCTATGAACGCTGCTGAGATCACAG  672
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||| | |||||||| || || |||   || ||| ||||  || ||||| || ||||||
+Sbjct  673  ACAAGTTGGGCCTGCATTCCCTGCGTCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  731
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  732  ACCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  791
+
+Query  569  AA  570
+            ||
+Sbjct  792  AA  793
+
+
+>ref|XM_004313118.1| PREDICTED: Tursiops truncatus ADP-ribosylation factor 3 (ARF3), 
+mRNA
+Length=1412
+
+ Score =   326 bits (176),  Expect = 2e-85
+ Identities = 381/482 (79%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||||||| | |||||||| |
+Sbjct  313  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTACAAGCTAAAACTGGGCG  372
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || || || || ||||||||||| || ||||||||||||||||||||||
+Sbjct  373  AGATCGTCACCACCATTCCCACCATTGGGTTCAACGTGGAGACAGTGGAGTACAAGAACA  432
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  433  TCAGCTTCACAGTCTGGGATGTGGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  492
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  493  ACTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  552
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||||||   || ||||| ||  | |||||  | |
+Sbjct  553  ATGAGGCCCGGGAGGAGCTGATGAGGATGCTGGCAGAGGATGAGCTCCGGGATGCTGTGC  612
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| ||||| |||||| |||| ||||||||||| ||||| || |||||||
+Sbjct  613  TCCTTGTCTTTGCAAACAAGCAGGATTTGCCTAATGCTATGAACGCTGCTGAGATCACAG  672
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||| | |||||||| || || |||   || ||| ||||  || ||||| || ||||||
+Sbjct  673  ACAAGTTGGGCCTGCATTCCCTGCGTCACCG-CAACTGGTACATTCAGGCCACCTGTGCC  731
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || || || |||||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  732  ACCAGCGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  791
+
+Query  569  AA  570
+            ||
+Sbjct  792  AA  793
+
+
+>ref|XM_001504136.2| PREDICTED: Equus caballus ADP-ribosylation factor 3-like (LOC100051578), 
+mRNA
+Length=1052
+
+ Score =   326 bits (176),  Expect = 2e-85
+ Identities = 381/482 (79%), Gaps = 5/482 (1%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  ||||||| || ||||||||||| ||| |||| ||| |||||||||| |
+Sbjct  344  TGATGGTGGGCCTGGATGCCGCAGGAAAGACCACCATCCTGTATAAGCTGAAACTGGGGG  403
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || ||||||||||| || ||||||||||||||||||||||
+Sbjct  404  AGATCGTCACGACCATCCCCACCATTGGGTTCAACGTGGAGACAGTGGAGTACAAGAACA  463
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            ||||||||||||| |||||||| |||||||| ||||| ||||| || || ||||| || |
+Sbjct  464  TCAGCTTCACAGTTTGGGATGTGGGTGGCCAGGACAAGATTCGGCCTCTCTGGAGACACT  523
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || |||||||| |||||  | || |||||| | ||||| |||||  | ||  ||||  
+Sbjct  524  ACTTCCAGAACACCCAAGGGTTGATCTTTGTGGTCGACAGCAATGATCGGGAGCGAGTAA  583
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+             ||| ||  | || ||  ||||||||||| ||   || ||||| ||  | |||||  | |
+Sbjct  584  ATGAGGCCCGGGAGGAGCTGATGAGGATGTTGGCAGAGGATGAGCTCCGGGATGCTGTGC  643
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            ||||||| ||||| |||||||||||| |||| ||||||||||| ||||| || || ||||
+Sbjct  644  TCCTTGTCTTTGCAAACAAACAGGATTTGCCTAATGCTATGAACGCTGCCGAGATTACAG  703
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCC  511
+            ||||| | |||||||| || || |||   || ||| ||||  || || || || ||||||
+Sbjct  704  ACAAGTTGGGCCTGCATTCCCTGCGTCACCG-CAACTGGTACATTCAAGCCACCTGTGCC  762
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT-A-CTCTAAAA-AAG  568
+            || ||||| |||||  | || ||||| ||||| |||||| ||||| | ||| |||| |||
+Sbjct  763  ACCAGTGGGGACGGGCTGTACGAAGGCCTGGACTGGCTGGCCAATCAGCTCAAAAACAAG  822
+
+Query  569  AA  570
+            ||
+Sbjct  823  AA  824
+
+
+>ref|XM_002752401.2| PREDICTED: Callithrix jacchus ADP-ribosylation factor 3 (ARF3), 
+partial mRNA
+Length=836
+
+ Score =   316 bits (171),  Expect = 1e-82
+ Identities = 351/440 (80%), Gaps = 3/440 (1%)
+ Strand=Plus/Plus
+
+Query  134  TACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAG  193
+            |||||| |||||||||| || || ||||| || ||||| || ||||||||||| || |||
+Sbjct  4    TACAAGCTGAAACTGGGGGAGATCGTCACCACCATCCCTACCATTGGGTTCAACGTGGAG  63
+
+Query  194  ACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATT  253
+            ||||| || || ||||||||||||||||||||||||||||| |||||||| ||||| |||
+Sbjct  64   ACAGTAGAATATAAGAACATCAGCTTCACAGTGTGGGATGTGGGTGGCCAGGACAAGATT  123
+
+Query  254  CGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGT  313
+            || ||||| ||||| || ||||| |||||||| |||||  | || |||||| | ||||| 
+Sbjct  124  CGGCCCCTCTGGAGACACTATTTCCAGAACACCCAAGGGTTGATATTTGTGGTCGACAGC  183
+
+Query  314  AATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGAT  373
+            |||||  | ||  ||||   ||| ||  | |||||  | ||||||||||||   || |||
+Sbjct  184  AATGATCGGGAGCGAGTAAATGAGGCCCGGGAAGAGCTAATGAGGATGCTGGCAGAGGAT  243
+
+Query  374  GAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATG  433
+            || ||  | |||||  | |||||||| ||||| ||||||||||||||||| |||||||||
+Sbjct  244  GAGCTCCGGGATGCTGTGCTCCTTGTTTTTGCAAACAAACAGGATCTGCCTAATGCTATG  303
+
+Query  434  AATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTT  493
+            || ||||| || |||||||||||||| |||||||| || ||||||   ||| | ||||  
+Sbjct  304  AACGCTGCTGAGATCACAGACAAGCTGGGCCTGCATTCCCTTCGTCACCGTAACTGGTAC  363
+
+Query  494  ATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCC  553
+            || ||||| || |||||||| || || || ||  | || ||||| ||||| |||||| ||
+Sbjct  364  ATTCAGGCCACCTGTGCCACCAGCGGGGATGGGCTGTACGAAGGCCTGGACTGGCTGGCC  423
+
+Query  554  AAT-A-CTCTAAAA-AAGAA  570
+            ||| | ||| |||| |||||
+Sbjct  424  AATCAGCTCAAAAACAAGAA  443
+
+
+>ref|XM_003535988.1| PREDICTED: Glycine max ADP-ribosylation factor-like (LOC100781846), 
+mRNA
+Length=907
+
+ Score =   309 bits (167),  Expect = 2e-80
+ Identities = 364/462 (79%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  144  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  203
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| || ||||| ||||| ||||| || ||||| || 
+Sbjct  204  ATTGTCACAACCATTCCCACAATTGGATTTAATGTGGAGACTGTGGAATATAAGAATATT  263
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || ||||| ||  | ||||| || || 
+Sbjct  264  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATTCGTCCTTTATGGAGACACTAC  323
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | |||| |
+Sbjct  324  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTTGTT  383
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  384  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  443
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  444  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  503
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || |||||    || || |||| ||||||| || |||||||| ||
+Sbjct  504  AAGCTTGGTCTTCATTCTCTTCGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCTAC  562
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||||||||| ||||| |||||
+Sbjct  563  CTCTGGGGAAGGACTATATGAAGGACTGGAGTGGCTCTCCAA  604
+
+
+>dbj|AK286924.1| Glycine max cDNA, clone: GMFL01-40-F14
+Length=881
+
+ Score =   309 bits (167),  Expect = 2e-80
+ Identities = 364/462 (79%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  155  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  214
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| || ||||| ||||| ||||| || ||||| || 
+Sbjct  215  ATTGTCACAACCATTCCCACAATTGGATTTAATGTGGAGACTGTGGAATATAAGAATATT  274
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || ||||| ||  | ||||| || || 
+Sbjct  275  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATTCGTCCTTTATGGAGACACTAC  334
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | |||| |
+Sbjct  335  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTTGTT  394
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  395  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  454
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  455  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  514
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || |||||    || || |||| ||||||| || |||||||| ||
+Sbjct  515  AAGCTTGGTCTTCATTCTCTTCGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCTAC  573
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||||||||| ||||| |||||
+Sbjct  574  CTCTGGGGAAGGACTATATGAAGGACTGGAGTGGCTCTCCAA  615
+
+
+>dbj|AK286518.1| Glycine max cDNA, clone: GMFL01-30-F14
+Length=841
+
+ Score =   309 bits (167),  Expect = 2e-80
+ Identities = 364/462 (79%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  127  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  186
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| || ||||| ||||| ||||| || ||||| || 
+Sbjct  187  ATTGTCACAACCATTCCCACAATTGGATTTAATGTGGAGACTGTGGAATATAAGAATATT  246
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || ||||| ||  | ||||| || || 
+Sbjct  247  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATTCGTCCTTTATGGAGACACTAC  306
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | |||| |
+Sbjct  307  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTTGTT  366
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  367  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  426
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  427  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  486
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || |||||    || || |||| ||||||| || |||||||| ||
+Sbjct  487  AAGCTTGGTCTTCATTCTCTTCGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCTAC  545
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||||||||| ||||| |||||
+Sbjct  546  CTCTGGGGAAGGACTATATGAAGGACTGGAGTGGCTCTCCAA  587
+
+
+>ref|XM_004586336.1| PREDICTED: Ochotona princeps ADP-ribosylation factor 1 (ARF1), 
+mRNA
+Length=900
+
+ Score =   305 bits (165),  Expect = 2e-79
+ Identities = 405/525 (77%), Gaps = 0/525 (0%)
+ Strand=Plus/Plus
+
+Query  32   ATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATT  91
+            ||||||||||| |||||    || ||||||||||| || || |     |||||| | || 
+Sbjct  35   ATGGGGAACATCTTTGCAAACCTCTTCAAGGGCCTTTTCGGCAAAAAGGAAATGCGCATC  94
+
+Query  92   TTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGT  151
+             | ||||| ||| |||||||||| || ||||| |||||  |||||||| |||| || |||
+Sbjct  95   CTCATGGTGGGTCTGGATGCTGCAGGGAAGACGACAATTCTGTACAAGCTGAAGCTCGGT  154
+
+Query  152  GAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAAC  211
+            || || || || || || || || || || ||||| || ||||| || || || ||||||
+Sbjct  155  GAGATCGTGACCACCATTCCCACTATAGGTTTCAACGTGGAGACTGTTGAATATAAGAAC  214
+
+Query  212  ATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCAT  271
+            ||||||||||||||||||||||| |||||||| ||||| ||||| || |||||| | || 
+Sbjct  215  ATCAGCTTCACAGTGTGGGATGTAGGTGGCCAGGACAAGATTCGGCCACTTTGGCGCCAC  274
+
+Query  272  TATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTT  331
+            || || || ||||| |||||  | || |||||| | ||||| |||||||||||| | || 
+Sbjct  275  TACTTCCAAAACACCCAAGGCTTGATCTTTGTGGTGGACAGCAATGACAGAGAACGTGTG  334
+
+Query  332  GGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATC  391
+              ||| ||  | || ||  | ||||| ||||||  ||| ||||| ||| | || ||  ||
+Sbjct  335  AATGAGGCGCGGGAGGAGCTCATGAGAATGCTGGCTGAGGATGAGCTGCGGGACGCAGTC  394
+
+Query  392  CTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACA  451
+            ||||| |||||||| ||||| ||||| || |||||||| |||||||| || |||||||||
+Sbjct  395  CTCCTAGTGTTTGCCAACAAGCAGGACCTCCCAAATGCCATGAATGCAGCTGAAATCACA  454
+
+Query  452  GACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCC  511
+            |||||||| || |||||||| || ||     |  | ||||  || ||||| || ||||||
+Sbjct  455  GACAAGCTGGGGCTGCACTCCCTACGCCACAGGAACTGGTACATTCAGGCAACCTGTGCC  514
+
+Query  512  ACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAAT  556
+            || || || || ||  | |||||||||||||| ||||||||||||
+Sbjct  515  ACCAGCGGGGATGGGCTCTATGAAGGACTGGACTGGCTGTCCAAT  559
+
+
+>ref|NM_001173559.1| Salmo salar ADP-ribosylation factor 1 like (arf1l), mRNA
+ gb|BT045630.1| Salmo salar clone ssal-rgf-527-050 ADP-ribosylation factor 1 
+putative mRNA, complete cds
+Length=2148
+
+ Score =   303 bits (164),  Expect = 9e-79
+ Identities = 407/527 (77%), Gaps = 6/527 (1%)
+ Strand=Plus/Plus
+
+Query  32   ATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATT  91
+            |||||||| |||||||     |||||||||||||| ||||| | |   || ||||| |||
+Sbjct  44   ATGGGGAATATGTTTGGAAGCCTGTTCAAGGGCCTTTTTGGCAAGAAGGAGATGAGGATT  103
+
+Query  92   TTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGT  151
+             | ||||||||  | |||||||||||||| || || ||| |||||||  | ||||| || 
+Sbjct  104  CTCATGGTTGGACTCGATGCTGCTGGAAAAACGACTATCCTGTACAAACTCAAACTAGGA  163
+
+Query  152  GAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAAC  211
+            || ||||| || || || ||||||||||| || |||||||| || || || |||||||||
+Sbjct  164  GAGATTGTTACCACCATTCCAACAATTGGTTTTAATGTAGAAACGGTAGAATACAAGAAC  223
+
+Query  212  ATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCAT  271
+            |||||||||||||||||||| ||||| || |||||||||||  | || || ||| | || 
+Sbjct  224  ATCAGCTTCACAGTGTGGGACGTTGGCGGTCAAGACAAAATCAGGCCGCTGTGGCGCCAC  283
+
+Query  272  TATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTT  331
+            || || |||||||| ||||| || || |||||| | ||||| || ||| | ||  |||| 
+Sbjct  284  TACTTCCAGAACACTCAAGGGCTTATCTTTGTGGTGGACAGCAACGACCGGGAGCGAGTG  343
+
+Query  332  GGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAGAGATGCCAT  390
+              ||| || || || || |||  ||| ||||| | | || || || |||||||||||  |
+Sbjct  344  AATGAGGCGAGGGAGGAGTTGCAGAGAATGCTCGCA-GAGGACGAGCTGAGAGATGCGGT  402
+
+Query  391  CCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCAC  450
+             || || || ||||| |||||||||||||| || ||||| |||||||||||||| |||||
+Sbjct  403  GCTGCTCGTTTTTGCAAACAAACAGGATCTTCCCAATGCAATGAATGCTGCAGAGATCAC  462
+
+Query  451  AGACAAGCTTGGCCTGCACTCACTTCGT-AGTCGTCAA-TGGTTTATCCAGGCTACATGT  508
+            ||||||||| || || ||| | || ||  || || ||  ||||  |||||||| || |||
+Sbjct  463  AGACAAGCTGGGGCTCCACGCCCTCCGCCAG-CG-CAGCTGGTACATCCAGGCCACTTGT  520
+
+Query  509  GCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+            || || || || |||||| | || || || || || ||||| |||||
+Sbjct  521  GCTACCAGCGGGGACGGCCTCTACGAGGGCCTCGACTGGCTCTCCAA  567
+
+
+>gb|BT043627.1| Salmo salar clone HM5_0244 ADP-ribosylation factor 1 like (arf1l) 
+mRNA, complete cds
+Length=1431
+
+ Score =   303 bits (164),  Expect = 9e-79
+ Identities = 407/527 (77%), Gaps = 6/527 (1%)
+ Strand=Plus/Plus
+
+Query  32   ATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATT  91
+            |||||||| |||||||     |||||||||||||| ||||| | |   || ||||| |||
+Sbjct  36   ATGGGGAATATGTTTGGAAGCCTGTTCAAGGGCCTTTTTGGCAAGAAGGAGATGAGGATT  95
+
+Query  92   TTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGT  151
+             | ||||||||  | |||||||||||||| || || ||| |||||||  | ||||| || 
+Sbjct  96   CTCATGGTTGGACTCGATGCTGCTGGAAAAACGACTATCCTGTACAAACTCAAACTAGGA  155
+
+Query  152  GAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAAC  211
+            || ||||| || || || ||||||||||| || |||||||| || || || |||||||||
+Sbjct  156  GAGATTGTTACCACCATTCCAACAATTGGTTTTAATGTAGAAACGGTAGAATACAAGAAC  215
+
+Query  212  ATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCAT  271
+            |||||||||||||||||||| ||||| || |||||||||||  | || || ||| | || 
+Sbjct  216  ATCAGCTTCACAGTGTGGGACGTTGGCGGTCAAGACAAAATCAGGCCGCTGTGGCGCCAC  275
+
+Query  272  TATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTT  331
+            || || |||||||| ||||| || || |||||| | ||||| || ||| | ||  |||| 
+Sbjct  276  TACTTCCAGAACACTCAAGGGCTTATCTTTGTGGTGGACAGCAACGACCGGGAGCGAGTG  335
+
+Query  332  GGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAGAGATGCCAT  390
+              ||| || || || || |||  ||| ||||| | | || || || |||||||||||  |
+Sbjct  336  AATGAGGCGAGGGAGGAGTTGCAGAGAATGCTCGCA-GAGGACGAGCTGAGAGATGCGGT  394
+
+Query  391  CCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCAC  450
+             || || || ||||| |||||||||||||| || ||||| |||||||||||||| |||||
+Sbjct  395  GCTGCTCGTTTTTGCAAACAAACAGGATCTTCCCAATGCAATGAATGCTGCAGAGATCAC  454
+
+Query  451  AGACAAGCTTGGCCTGCACTCACTTCGT-AGTCGTCAA-TGGTTTATCCAGGCTACATGT  508
+            ||||||||| || || ||| | || ||  || || ||  ||||  |||||||| || |||
+Sbjct  455  AGACAAGCTGGGGCTCCACGCCCTCCGCCAG-CG-CAGCTGGTACATCCAGGCCACTTGT  512
+
+Query  509  GCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+            || || || || |||||| | || || || || || ||||| |||||
+Sbjct  513  GCTACCAGCGGGGACGGCCTCTACGAGGGCCTCGACTGGCTCTCCAA  559
+
+
+>ref|XM_003555742.1| PREDICTED: Glycine max ADP-ribosylation factor 2-like, transcript 
+variant 2 (LOC100802587), mRNA
+Length=948
+
+ Score =   298 bits (161),  Expect = 4e-77
+ Identities = 362/462 (78%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  216  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  275
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| |||||||| ||||| ||||| || ||||| || 
+Sbjct  276  ATTGTCACAACCATTCCCACAATTGGATTCAATGTGGAGACTGTGGAATATAAGAATATT  335
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || || || ||  | ||||| || || 
+Sbjct  336  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATCCGTCCTTTATGGAGACACTAC  395
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | || | |
+Sbjct  396  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTAGTT  455
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  456  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  515
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  516  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  575
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || || ||    || || |||| ||||||| || |||||||||||
+Sbjct  576  AAGCTTGGTCTTCATTCTCTACGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCCAC  634
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||| ||||| ||||| |||||
+Sbjct  635  CTCTGGGGAAGGACTATATGAAGGGCTGGACTGGCTCTCCAA  676
+
+
+>ref|XM_003555741.1| PREDICTED: Glycine max ADP-ribosylation factor 2-like, transcript 
+variant 1 (LOC100802587), mRNA
+Length=894
+
+ Score =   298 bits (161),  Expect = 4e-77
+ Identities = 362/462 (78%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  162  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  221
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| |||||||| ||||| ||||| || ||||| || 
+Sbjct  222  ATTGTCACAACCATTCCCACAATTGGATTCAATGTGGAGACTGTGGAATATAAGAATATT  281
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || || || ||  | ||||| || || 
+Sbjct  282  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATCCGTCCTTTATGGAGACACTAC  341
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | || | |
+Sbjct  342  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTAGTT  401
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  402  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  461
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  462  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  521
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || || ||    || || |||| ||||||| || |||||||||||
+Sbjct  522  AAGCTTGGTCTTCATTCTCTACGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCCAC  580
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||| ||||| ||||| |||||
+Sbjct  581  CTCTGGGGAAGGACTATATGAAGGGCTGGACTGGCTCTCCAA  622
+
+
+>dbj|AK286615.1| Glycine max cDNA, clone: GMFL01-32-K15
+Length=891
+
+ Score =   298 bits (161),  Expect = 4e-77
+ Identities = 362/462 (78%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  157  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  216
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| |||||||| ||||| ||||| || ||||| || 
+Sbjct  217  ATTGTCACAACCATTCCCACAATTGGATTCAATGTGGAGACTGTGGAATATAAGAATATT  276
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || || || ||  | ||||| || || 
+Sbjct  277  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATCCGTCCTTTATGGAGACACTAC  336
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | || | |
+Sbjct  337  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTAGTT  396
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | |||
+Sbjct  397  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTC  456
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            || || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  457  CTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  516
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || || ||    || || |||| ||||||| || |||||||||||
+Sbjct  517  AAGCTTGGTCTTCATTCTCTACGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCCAC  575
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||| ||||| ||||| |||||
+Sbjct  576  CTCTGGGGAAGGACTATATGAAGGGCTGGACTGGCTCTCCAA  617
+
+
+>gb|BT057759.1| Salmo salar clone ssal-rgb-527-288 ADP-ribosylation factor 1 
+putative mRNA, complete cds
+Length=1153
+
+ Score =   294 bits (159),  Expect = 5e-76
+ Identities = 406/529 (77%), Gaps = 2/529 (0%)
+ Strand=Plus/Plus
+
+Query  28   CAAAATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAG  87
+            ||| |||||||||||||||||    ||||| |||   |||||||| |     || ||| |
+Sbjct  45   CAAGATGGGGAACATGTTTGCAGGCCTGTTTAAGAATCTCTTTGGTAAAAAAGAGATGCG  104
+
+Query  88   AATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACT  147
+             ||| ||||||| ||  |||||||||| || |||||||| ||| |||||||| | |||||
+Sbjct  105  GATTCTGATGGTGGGGCTGGATGCTGCCGGCAAGACCACCATCCTGTACAAGCTCAAACT  164
+
+Query  148  GGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAA  207
+            ||| || || ||||| || ||||| || || || || || || ||||| || || |||||
+Sbjct  165  GGGAGAGATCGTCACCACAATCCCTACCATCGGTTTTAACGTTGAGACGGTAGAATACAA  224
+
+Query  208  GAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAG  267
+            ||||||||||||||||||||||||||| || || || ||||| ||  | || || ||| |
+Sbjct  225  GAACATCAGCTTCACAGTGTGGGATGTGGGCGGTCAGGACAAGATCAGGCCTCTGTGGCG  284
+
+Query  268  GCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAG  327
+            ||| || || |||||||| ||||| || || |||||| | |||||||| || || || ||
+Sbjct  285  GCACTACTTCCAGAACACCCAAGGTCTGATCTTTGTGGTGGACAGTAACGATAGGGAGAG  344
+
+Query  328  AGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGC  387
+            |||    || ||| | || ||  |||  |||||||||  ||| |||||||||||||| ||
+Sbjct  345  AGTGAACGAGGCACGGGAGGAGCTGACAAGGATGCTGGCTGAGGATGAACTGAGAGACGC  404
+
+Query  388  CATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAAT  447
+              | || |||||||| || ||||||||||| || || || |||||||| || || || ||
+Sbjct  405  TGTGCTGCTTGTGTTCGCTAACAAACAGGACCTCCCCAACGCTATGAACGCAGCGGAGAT  464
+
+Query  448  CACAGACAAGCTTGGCCTGCACTCACTTCGT-AGTCGTCAATGGTTTATCCAGGCTACAT  506
+            |||||||||||| ||||||||||| || ||  || ||| | ||||  |||||||| || |
+Sbjct  465  CACAGACAAGCTGGGCCTGCACTCCCTGCGCCAG-CGTAATTGGTACATCCAGGCCACCT  523
+
+Query  507  GTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+            | || || || || |||||  | || || || || || ||||| |||||
+Sbjct  524  GCGCTACCAGCGGGGACGGGCTCTACGAGGGCCTCGACTGGCTCTCCAA  572
+
+
+>ref|NM_001012248.2| Danio rerio ADP-ribosylation factor 3b (arf3b), mRNA
+ gb|BC163310.1| Danio rerio ADP-ribosylation factor 3b, mRNA (cDNA clone MGC:194618 
+IMAGE:9038290), complete cds
+Length=645
+
+ Score =   292 bits (158),  Expect = 2e-75
+ Identities = 365/468 (78%), Gaps = 2/468 (0%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||||||| ||||||||||  | ||||||||||| || ||||| ||| | |||||  ||
+Sbjct  97   ATGAGAATTCTGATGGTTGGACTTGATGCTGCTGGTAAAACCACCATCCTTTACAAACTG  156
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            || ||||| || || ||||| || |||||||| || || || ||||| ||||||||||||
+Sbjct  157  AAGCTGGGAGAGATCGTCACCACCATCCCAACCATCGGCTTTAATGTGGAGACAGTGGAG  216
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            |||||||||||||||||||| ||||||||||||||||| || || |||||  | || || 
+Sbjct  217  TACAAGAACATCAGCTTCACTGTGTGGGATGTTGGTGGTCAGGATAAAATCAGGCCGCTC  276
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            ||||| || || ||||| |||||||| || || || |||||| | ||||| || ||| | 
+Sbjct  277  TGGAGACACTACTTTCAAAACACACAGGGTCTGATCTTTGTGGTGGACAGCAACGACCGG  336
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAG  381
+            ||  | ||    || ||  |||| || |||||||||||||| | | ||||| |||||  |
+Sbjct  337  GAGCGGGTGAACGAGGCCCGAGAGGAGTTGATGAGGATGCTCGCA-GAAGACGAACTTCG  395
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+             || ||  | || || || || || |||||||||||||||||||| |||||||| |||||
+Sbjct  396  TGACGCTGTTCTTCTCGTCTTCGCAAACAAACAGGATCTGCCAAACGCTATGAACGCTGC  455
+
+Query  442  AGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGC  501
+             || |||||||| || || ||||| ||||| || ||   |||| | |||| ||| |||||
+Sbjct  456  CGAGATCACAGATAAACTGGGCCTTCACTCGCTCCGCCATCGTAACTGGTATATACAGGC  515
+
+Query  502  TACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCT  549
+             || || || || || || |||||| | || || ||||| || |||||
+Sbjct  516  GACCTGCGCGACCAGCGGCGACGGCCTGTACGAGGGACTCGACTGGCT  563
+
+
+>gb|BC163292.1| Danio rerio ADP-ribosylation factor 3b, mRNA (cDNA clone MGC:194597 
+IMAGE:9038286), complete cds
+Length=645
+
+ Score =   292 bits (158),  Expect = 2e-75
+ Identities = 365/468 (78%), Gaps = 2/468 (0%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||||||| ||||||||||  | ||||||||||| || ||||| ||| | |||||  ||
+Sbjct  97   ATGAGAATTCTGATGGTTGGACTTGATGCTGCTGGTAAAACCACCATCCTTTACAAACTG  156
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            || ||||| || || ||||| || |||||||| || || || ||||| ||||||||||||
+Sbjct  157  AAGCTGGGAGAGATCGTCACCACCATCCCAACCATCGGCTTTAATGTGGAGACAGTGGAG  216
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            |||||||||||||||||||| ||||||||||||||||| || || |||||  | || || 
+Sbjct  217  TACAAGAACATCAGCTTCACTGTGTGGGATGTTGGTGGTCAGGATAAAATCAGGCCGCTC  276
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            ||||| || || ||||| |||||||| || || || |||||| | ||||| || ||| | 
+Sbjct  277  TGGAGACACTACTTTCAAAACACACAGGGTCTGATCTTTGTGGTGGACAGCAACGACCGG  336
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAG  381
+            ||  | ||    || ||  |||| || |||||||||||||| | | ||||| |||||  |
+Sbjct  337  GAGCGGGTGAACGAGGCCCGAGAGGAGTTGATGAGGATGCTCGCA-GAAGACGAACTTCG  395
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+             || ||  | || || || || || |||||||||||||||||||| |||||||| |||||
+Sbjct  396  TGACGCTGTTCTTCTCGTCTTCGCAAACAAACAGGATCTGCCAAACGCTATGAACGCTGC  455
+
+Query  442  AGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGC  501
+             || |||||||| || || ||||| ||||| || ||   |||| | |||| ||| |||||
+Sbjct  456  CGAGATCACAGATAAACTGGGCCTTCACTCGCTCCGCCATCGTAACTGGTATATACAGGC  515
+
+Query  502  TACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTGGATTGGCT  549
+             || || || || || || |||||| | || || ||||| || |||||
+Sbjct  516  GACCTGCGCGACCAGCGGCGACGGCCTGTACGAGGGACTCGACTGGCT  563
+
+
+>tpg|BK007271.1| TPA_exp: Amblyomma variegatum ADP ribosylation factor 79F mRNA, 
+partial cds
+Length=558
+
+ Score =   287 bits (155),  Expect = 9e-74
+ Identities = 385/498 (77%), Gaps = 8/498 (2%)
+ Strand=Plus/Plus
+
+Query  32   ATGGGGAACATGTTTGCTTCGCTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATT  91
+            ||||||||||| || ||     ||||||| ||||| || || | |   || ||||| || 
+Sbjct  1    ATGGGGAACATATTCGCGAACTTGTTCAAAGGCCTGTTCGGCAAGAAGGAGATGAGGATC  60
+
+Query  92   TTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGT  151
+             | ||||| ||  | ||||| || || ||||| || ||  |||||||  |||| ||||| 
+Sbjct  61   CTCATGGTGGGCCTTGATGCGGCGGGCAAGACGACGATTCTGTACAAACTGAAGCTGGGC  120
+
+Query  152  GAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAAC  211
+            |||||||||||||| || || || || || ||||| || |||||||| ||||||||||||
+Sbjct  121  GAAATTGTCACAACCATTCCCACCATCGGTTTCAACGTGGAGACAGTAGAGTACAAGAAC  180
+
+Query  212  ATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCAT  271
+            |||||||||||||||||||| ||||| ||||||||||| ||||| || || ||| | || 
+Sbjct  181  ATCAGCTTCACAGTGTGGGACGTTGGCGGCCAAGACAAGATTCGTCCACTCTGGCGCCAC  240
+
+Query  272  TATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGT-  330
+            || || |||||||| |||||  | || |||||| | ||||| |||||||| ||  | || 
+Sbjct  241  TACTTCCAGAACACGCAAGGCTTGATATTTGTGGTGGACAGCAATGACAGGGA--GCGTA  298
+
+Query  331  T-GGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAGAGATGCC  388
+            | ||||| || || || ||| ||||||||||||| | | || ||||| ||||| ||||| 
+Sbjct  299  TCGGTGAGGCCAGGGAGGAACTGATGAGGATGCTCGCA-GAGGATGAGCTGAGGGATGCT  357
+
+Query  389  ATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATC  448
+             |  | ||  | ||||| ||||| |||||||| || ||||| |||||||| || || || 
+Sbjct  358  GTTTTGCTCATCTTTGCCAACAAGCAGGATCTTCCCAATGCCATGAATGCAGCCGAGATA  417
+
+Query  449  ACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATG  507
+            || ||||||||||| |||||||| || || |  || ||| ||||  ||||| || || ||
+Sbjct  418  ACGGACAAGCTTGGTCTGCACTCCCTGCGCAACCG-CAACTGGTACATCCAAGCCACCTG  476
+
+Query  508  TGCCACAAGTGGAGACGG  525
+            |||||| ||||| |||||
+Sbjct  477  TGCCACCAGTGGGGACGG  494
+
+
+>dbj|AK287022.1| Glycine max cDNA, clone: GMFL01-42-E24
+Length=955
+
+ Score =   287 bits (155),  Expect = 9e-74
+ Identities = 360/462 (78%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||| ||| | ||||||||||| ||||| || |||||||||||| | || ||||| |||
+Sbjct  216  ATGGTAGGTCTTGATGCTGCTGGTAAGACTACCATCTTGTACAAGCTCAAGCTGGGAGAA  275
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            ||||||||||| || || |||||||| |||||||| ||||| ||||| || ||||| || 
+Sbjct  276  ATTGTCACAACCATTCCCACAATTGGATTCAATGTGGAGACTGTGGAATATAAGAATATT  335
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            ||||| || || |||||||| ||||||||||| || || || ||  | ||||| || || 
+Sbjct  336  AGCTTTACTGTATGGGATGTGGGTGGCCAAGATAAGATCCGTCCTTTATGGAGACACTAC  395
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || || ||||| || || || || |||||  | || || |||||  | ||  | || | |
+Sbjct  396  TTCCAAAACACTCAGGGGCTTATCTTTGTTGTGGATAGCAATGATCGTGACCGTGTAGTT  455
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            || || ||||| ||  |     ||||| ||||||| |||||  ||||||||||  | || 
+Sbjct  456  GAGGCTAGAGATGAGCTCCACCGGATGTTGAATGAGGATGAGTTGAGAGATGCTGTTCTG  515
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+             | || ||||| |||||||| ||||| |||||||||||||||||||||||||||||||||
+Sbjct  516  TTGGTATTTGCCAACAAACAAGATCTTCCAAATGCTATGAATGCTGCAGAAATCACAGAC  575
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAG-GCTACATGTGCCAC  513
+            |||||||| || || || || ||    || || |||| ||||||| || |||||||||||
+Sbjct  576  AAGCTTGGTCTTCATTCTCTACGCCAACGCCACTGGTATATCCAGAGC-ACATGTGCCAC  634
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+               ||| || ||  |||||||||| ||||| ||||| |||||
+Sbjct  635  CTCTGGGGAAGGACTATATGAAGGGCTGGACTGGCTCTCCAA  676
+
+
+>ref|XM_003216952.1| PREDICTED: Anolis carolinensis ADP-ribosylation factor 3-like 
+(LOC100562735), mRNA
+Length=546
+
+ Score =   281 bits (152),  Expect = 4e-72
+ Identities = 359/462 (78%), Gaps = 2/462 (0%)
+ Strand=Plus/Plus
+
+Query  95   ATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAA  154
+            ||||||||  | ||||||||||| || ||||| ||| | |||||  |||| ||||| || 
+Sbjct  64   ATGGTTGGACTTGATGCTGCTGGGAAAACCACTATCCTCTACAAACTGAAGCTGGGAGAG  123
+
+Query  155  ATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATC  214
+            |||||||| || ||||| || ||||| || ||||| || || || || || |||||||| 
+Sbjct  124  ATTGTCACTACCATCCCCACTATTGGATTTAATGTGGAAACGGTTGAATATAAGAACATT  183
+
+Query  215  AGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTAT  274
+            |||||||| || ||||||||||||||||| ||||| || || ||||| ||| ||||||| 
+Sbjct  184  AGCTTCACTGTATGGGATGTTGGTGGCCAGGACAAGATACGGCCCCTGTGGCGGCATTAC  243
+
+Query  275  TTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGT  334
+            || |||||||| || ||  | || |||||| | || || |||||  | ||  ||||   |
+Sbjct  244  TTCCAGAACACCCAGGGTTTGATCTTTGTGGTGGATAGCAATGATCGGGAGCGAGTGAAT  303
+
+Query  335  GAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTC  394
+            |||||  | || ||  ||||||||||||||   || |||||| || |||| ||  | || 
+Sbjct  304  GAAGCCCGTGAGGAGCTGATGAGGATGCTGGCAGAGGATGAATTGCGAGACGCTGTTCTT  363
+
+Query  395  CTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGAC  454
+            ||||| ||||| || || ||||| || || ||||| ||||||||||||||||||||||||
+Sbjct  364  CTTGTCTTTGCTAATAAGCAGGACCTCCCTAATGCCATGAATGCTGCAGAAATCACAGAC  423
+
+Query  455  AAGCTTGGCCTGCACTCACTTCGTAGTCGTCAA-TGGTTTATCCAGGCTACATGTGCCAC  513
+            ||||| || || |||||||| ||    || ||| ||||  |||||||| || || |||||
+Sbjct  424  AAGCTGGGTCTACACTCACTGCGCCACCG-CAACTGGTACATCCAGGCCACCTGCGCCAC  482
+
+Query  514  AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCTGTCCAA  555
+             ||||| |||||| | || || ||  ||||||||||| ||||
+Sbjct  483  GAGTGGGGACGGCCTCTACGAGGGCTTGGATTGGCTGGCCAA  524
+
+
+>ref|XM_002431325.1| Pediculus humanus corporis ADP-ribosylation factor, putative, 
+mRNA
+Length=588
+
+ Score =   281 bits (152),  Expect = 4e-72
+ Identities = 301/375 (80%), Gaps = 2/375 (1%)
+ Strand=Plus/Plus
+
+Query  182  TTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGC  241
+            ||||||||||||||||| || |||||||| || || || || || |||||||| || || 
+Sbjct  190  TTCAATGTAGAGACAGTAGAATACAAGAATATAAGTTTTACTGTATGGGATGTAGGAGGT  249
+
+Query  242  CAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTT  301
+            ||||| |||||  ||||  | ||| | ||||||||||| |||||||||||| | ||||||
+Sbjct  250  CAAGATAAAATCAGACCATTGTGGCGACATTATTTTCAAAACACACAAGGATTAATTTTT  309
+
+Query  302  GTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATG  361
+            ||  ||||||||||||||||||||||| |||| |||||||||||||| || ||||| |||
+Sbjct  310  GTTGTAGACAGTAATGACAGAGAAAGAATTGGCGAAGCAAGAGAAGAGTTAATGAGAATG  369
+
+Query  362  CT-GAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCT  420
+            || | | |||||||| || ||||||||  | || ||| | ||||| || |||||||||||
+Sbjct  370  CTTGCA-GAAGATGAGCTTAGAGATGCTGTACTTCTTATATTTGCTAATAAACAGGATCT  428
+
+Query  421  GCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAG  480
+            |||||||||||||||||| |||||||| || || || |||||||| || ||  | |||| 
+Sbjct  429  GCCAAATGCTATGAATGCAGCAGAAATAACTGATAAACTTGGCCTACATTCTTTACGTAA  488
+
+Query  481  TCGTCAATGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACT  540
+              |  | ||||  || || || || ||||| ||||| || || || || |||||||| ||
+Sbjct  489  CAGAAACTGGTACATTCAAGCAACCTGTGCAACAAGCGGTGATGGATTGTATGAAGGCCT  548
+
+Query  541  GGATTGGCTGTCCAA  555
+             || ||||| |||||
+Sbjct  549  TGACTGGCTTTCCAA  563
+
+
+>ref|XM_005040510.1| PREDICTED: Ficedula albicollis ADP-ribosylation factor 1 (ARF1), 
+transcript variant X1, mRNA
+Length=800
+
+ Score =   278 bits (150),  Expect = 5e-71
+ Identities = 300/375 (80%), Gaps = 0/375 (0%)
+ Strand=Plus/Plus
+
+Query  182  TTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGC  241
+            |||||||| || ||||| || ||||||||||||||||||||||||||||| || ||||| 
+Sbjct  190  TTCAATGTGGAAACAGTAGAATACAAGAACATCAGCTTCACAGTGTGGGACGTGGGTGGT  249
+
+Query  242  CAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTT  301
+            || ||||| ||  ||||||| ||| | || || || |||||||||||||| || ||||||
+Sbjct  250  CAGGACAAGATCAGACCCCTCTGGCGCCACTACTTCCAGAACACACAAGGTCTGATTTTT  309
+
+Query  302  GTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATG  361
+            ||| | ||||| |||||||||||| | ||    || || ||||||||  | ||||| |||
+Sbjct  310  GTGGTTGACAGCAATGACAGAGAACGTGTGAACGAGGCCAGAGAAGAGCTTATGAGAATG  369
+
+Query  362  CTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTG  421
+             ||   |||||||| || ||||||||  |  |  | |||||||| ||||||||||| |||
+Sbjct  370  TTGGCAGAAGATGAGCTCAGAGATGCTGTTTTATTAGTGTTTGCTAACAAACAGGACCTG  429
+
+Query  422  CCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGT  481
+            || || || |||||||| ||||||||||||||||| ||||| ||||| || |||||    
+Sbjct  430  CCGAACGCCATGAATGCAGCAGAAATCACAGACAAACTTGGACTGCATTCTCTTCGCCAC  489
+
+Query  482  CGTCAATGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAAGGACTG  541
+             |  | ||||  |||||||| || |||||||| |||||||||||  | ||||||||||||
+Sbjct  490  AGGAACTGGTACATCCAGGCAACCTGTGCCACTAGTGGAGACGGTCTCTATGAAGGACTG  549
+
+Query  542  GATTGGCTGTCCAAT  556
+            || ||| ||||||||
+Sbjct  550  GACTGGTTGTCCAAT  564
+
+
+>ref|XM_003980625.1| PREDICTED: Felis catus ADP-ribosylation factor 1 (ARF1), mRNA
+Length=1045
+
+ Score =   278 bits (150),  Expect = 5e-71
+ Identities = 384/501 (77%), Gaps = 0/501 (0%)
+ Strand=Plus/Plus
+
+Query  56   TTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCT  115
+            ||||||||||| ||||| |     || ||| | ||| | ||||| ||  |||||||||| 
+Sbjct  147  TTCAAGGGCCTTTTTGGCAAAAAAGAGATGCGCATTCTCATGGTGGGCCTGGATGCTGCA  206
+
+Query  116  GGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACA  175
+            || |||||||| ||| |||||||  |||| |||||||| ||||| || || || || || 
+Sbjct  207  GGGAAGACCACCATCCTGTACAAACTGAAGCTGGGTGAGATTGTGACCACCATTCCCACC  266
+
+Query  176  ATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTT  235
+            || || || || || |||||||||||||||||||||||||||||||| |||||||| || 
+Sbjct  267  ATAGGCTTTAACGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACCGTGTGGGACGTG  326
+
+Query  236  GGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGACTC  295
+            || ||||| ||||| || || ||||| ||| | || || || |||||||||||||| |||
+Sbjct  327  GGCGGCCAGGACAAGATCCGGCCCCTGTGGCGCCACTACTTCCAGAACACACAAGGCCTC  386
+
+Query  296  ATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTGATG  355
+            || || ||| | ||||| || ||||||||  | ||    || ||  | || ||  | |||
+Sbjct  387  ATCTTCGTGGTGGACAGCAACGACAGAGAGCGCGTGAACGAGGCCCGTGAGGAGCTCATG  446
+
+Query  356  AGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAG  415
+            |||||||||   || || || || || |||||| |||| || ||||| || ||||| |||
+Sbjct  447  AGGATGCTGGCGGAGGACGAGCTCAGGGATGCCGTCCTGCTGGTGTTCGCCAACAAGCAG  506
+
+Query  416  GATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTT  475
+            || || || || || |||||||| || || ||||| |||||||| ||||||||||| || 
+Sbjct  507  GACCTCCCGAACGCCATGAATGCAGCCGAGATCACGGACAAGCTGGGCCTGCACTCGCTG  566
+
+Query  476  CGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTATATGAA  535
+            ||     |  | |||| ||| ||||| || |||||||| || || || ||  | ||||| 
+Sbjct  567  CGCCACAGGAACTGGTATATTCAGGCCACCTGTGCCACCAGCGGGGATGGGCTCTATGAG  626
+
+Query  536  GGACTGGATTGGCTGTCCAAT  556
+            |||||||| ||||||||||||
+Sbjct  627  GGACTGGACTGGCTGTCCAAT  647
+
+
+>ref|XM_005061367.1| PREDICTED: Ficedula albicollis ADP-ribosylation factor 3 (ARF3), 
+transcript variant X2, mRNA
+Length=647
+
+ Score =   263 bits (142),  Expect = 1e-66
+ Identities = 328/421 (78%), Gaps = 0/421 (0%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  |||| |||||||| |||||||| ||| | |||||| | |||||||| |
+Sbjct  117  TGATGGTGGGGCTGGACGCTGCTGGGAAGACCACCATCCTCTACAAGCTCAAACTGGGGG  176
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || || |||||||| || ||||||||||||||||||||||
+Sbjct  177  AGATCGTCACCACCATCCCCACCATCGGGTTCAACGTCGAGACAGTGGAGTACAAGAACA  236
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||| ||||||||||| ||||| || ||||| || || ||||| ||||||||||
+Sbjct  237  TCAGCTTCACCGTGTGGGATGTGGGTGGGCAGGACAAGATCCGGCCCCTCTGGAGGCATT  296
+
+Query  273  ATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTG  332
+            | || || ||||| || || || || || ||| | ||||| || ||| | ||  | ||  
+Sbjct  297  ACTTCCAAAACACCCAGGGGCTGATCTTCGTGGTGGACAGCAACGACCGGGAGCGGGTGA  356
+
+Query  333  GTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCC  392
+              || ||  | || ||  ||||| ||||||||   || ||||| ||| | || ||| |||
+Sbjct  357  ACGAGGCGCGGGAGGAGCTGATGCGGATGCTGGCGGAGGATGAGCTGCGGGACGCCGTCC  416
+
+Query  393  TCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAG  452
+            |||| || || || ||||| ||||| ||||| ||||| ||||| || ||||| ||||| |
+Sbjct  417  TCCTCGTCTTCGCCAACAAGCAGGACCTGCCCAATGCCATGAACGCAGCAGAGATCACGG  476
+
+Query  453  ACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATCCAGGCTACATGTGCCA  512
+            ||||||| || |||||||| || ||    ||| | ||||  |||||||| || |||||||
+Sbjct  477  ACAAGCTGGGGCTGCACTCCCTGCGCCACCGTAACTGGTACATCCAGGCCACCTGTGCCA  536
+
+Query  513  C  513
+            |
+Sbjct  537  C  537
+
+
+>ref|XM_003961069.1| PREDICTED: Takifugu rubripes ADP-ribosylation factor 1-like (LOC101077609), 
+mRNA
+Length=546
+
+ Score =   243 bits (131),  Expect = 2e-60
+ Identities = 381/505 (75%), Gaps = 4/505 (1%)
+ Strand=Plus/Plus
+
+Query  53   CTGTTCAAGGGCCTCTTTGGGAGGTCCGAAATGAGAATTTTGATGGTTGGTTTGGATGCT  112
+            |||||||||||||| ||||| |     || ||| ||||| | ||||||||  | || |||
+Sbjct  22   CTGTTCAAGGGCCTGTTTGGCAAAAAAGAGATGCGAATTCTTATGGTTGGCCTTGACGCT  81
+
+Query  113  GCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCA  172
+            |||||||| || || ||  |||| ||  ||||||| || ||||| ||||| || || || 
+Sbjct  82   GCTGGAAAAACGACCATTCTGTATAAACTGAAACTTGGAGAAATAGTCACCACTATTCCC  141
+
+Query  173  ACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGAT  232
+            || || ||||| ||||| || || || || ||||||||||||||||||||||||||||| 
+Sbjct  142  ACCATCGGGTTTAATGTTGAAACTGTAGAATACAAGAACATCAGCTTCACAGTGTGGGAC  201
+
+Query  233  GTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACAAGGA  292
+            || || ||||| ||||||||  | || || ||| | || || || |||||||| ||||| 
+Sbjct  202  GTAGGCGGCCAGGACAAAATCAGGCCGCTGTGGCGCCACTACTTCCAGAACACTCAAGGG  261
+
+Query  293  CTCATTTTTGTGATAGACAGTAATGACAGAGAAAGAGTTGGTGAAGCAAGAGAAGAATTG  352
+            ||||| || ||| | ||||| || ||||| ||  | ||    || || || || ||  | 
+Sbjct  262  CTCATCTTCGTGGTGGACAGCAACGACAGGGAGCGGGTGAACGAGGCGAGGGAGGAGCTC  321
+
+Query  353  ATGAGGATGCTGAATGAAGATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAA  412
+               || |||||    || |||||||| ||||| ||| | || || || ||||| ||||| 
+Sbjct  322  GCCAGAATGCTCGCCGAGGATGAACTCAGAGACGCCGTGCTGCTGGTTTTTGCCAACAAG  381
+
+Query  413  CAGGATCTGCCAAATGCTATGAATGCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCA  472
+            |||||||| || || || ||||| |||||||| |||||||||||||| || |||||| | 
+Sbjct  382  CAGGATCTCCCCAACGCCATGAACGCTGCAGAGATCACAGACAAGCTGGGGCTGCACGCC  441
+
+Query  473  CTTCGT-AGTCGTCAA-TGGTTTATCCAGGCTACATGTGCCACAAGTGGAGACGGCTTAT  530
+            || ||| || || ||  ||||  |||||||| || || ||||| || || |||||| | |
+Sbjct  442  CTCCGTCAG-CG-CAGCTGGTACATCCAGGCCACCTGCGCCACCAGCGGCGACGGCCTGT  499
+
+Query  531  ATGAAGGACTGGATTGGCTGTCCAA  555
+            | || || ||||| ||||| |||||
+Sbjct  500  ACGAGGGCCTGGACTGGCTCTCCAA  524
+
+
+>ref|XM_004891797.1| PREDICTED: Heterocephalus glaber uncharacterized LOC101711270 
+(LOC101711270), mRNA
+Length=1667
+
+ Score =   241 bits (130),  Expect = 7e-60
+ Identities = 363/477 (76%), Gaps = 10/477 (2%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | |||||||||||||| |||||||||||||| ||||| || ||  |||| ||  
+Sbjct  351  AAATGCGTATTTTGATGGTTGGATTGGATGCTGCTGGCAAGACGACCATTCTGTATAAAC  410
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | ||| | || ||||| ||||| || || || || ||||| || ||||| || ||||| |
+Sbjct  411  TCAAATTAGGGGAAATAGTCACCACCATTCCTACCATTGGTTTTAATGTGGAAACAGTAG  470
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            |||| ||||||||  | ||||||||||||||||||||||||||||| |||||||| || |
+Sbjct  471  AGTATAAGAACATTTGTTTCACAGTGTGGGATGTTGGTGGCCAAGATAAAATTCGGCCTC  530
+
+Query  261  TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACA  320
+            | ||||||||||| || ||||| || || || || ||||||||| |||| || |||||| 
+Sbjct  531  TCTGGAGGCATTACTTCCAGAATACCCAGGGTCTTATTTTTGTGGTAGATAGCAATGACC  590
+
+Query  321  GAGAAAGAGTTGGTGAAGCAAGAGAA-GAATTGATGAGGATGCTGAATGAAGATGAACTG  379
+            | |||||| ||   |||| | |  |  | | ||   |  |||||  | |||||||| |||
+Sbjct  591  GTGAAAGAATTCAGGAAGGA-GCAACCGTACTGCAAAATATGCTTCAGGAAGATGAGCTG  649
+
+Query  380  -AGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGA--AT  436
+             || |||||  | || ||  | ||||| |||||||||||| ||||||||||||||   ||
+Sbjct  650  CAG-GATGCAGTGCTGCTGCTTTTTGCAAACAAACAGGATTTGCCAAATGCTATGGCCAT  708
+
+Query  437  GCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATC  496
+             | |  ||||| ||||| ||  | || || || || |||||||   |   ||||| | | 
+Sbjct  709  -CAGT-GAAATGACAGATAAATTGGGTCTTCAGTCTCTTCGTAACAGAACATGGTATGTT  766
+
+Query  497  CAGGCTACATGTGCCACAAGTGGAGACGGCT-TATATGAAGGACTGGATTGGCTGTC  552
+            || || || |||||||||   ||| |||| | | |||||||||||||| ||||||||
+Sbjct  767  CAAGCCACTTGTGCCACACAAGGA-ACGGGTCTGTATGAAGGACTGGACTGGCTGTC  822
+
+
+>ref|XM_002130518.2| PREDICTED: Ciona intestinalis ADP-ribosylation factor 4-like 
+(LOC100182217), mRNA
+Length=1425
+
+ Score =   237 bits (128),  Expect = 9e-59
+ Identities = 294/376 (78%), Gaps = 4/376 (1%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||||||||| ||||||||||||||||||||||||||||| |||||  |||||||||||
+Sbjct  122  ATGAGAATTTTAATGGTTGGTTTGGATGCTGCTGGAAAGACAACAATTCTGTACAAGTTG  181
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            ||||| || ||||| || || || || || || ||||| |||||||| || || || || 
+Sbjct  182  AAACTTGGAGAAATCGTAACCACCATTCCTACTATTGGATTCAATGTTGAAACTGTAGAA  241
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            ||||||||  |  | ||||| || ||||| || ||||| |||||||||||||| || || 
+Sbjct  242  TACAAGAATGTATGTTTCACGGTTTGGGACGTGGGTGGTCAAGACAAAATTCGTCCTCTA  301
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            ||| | ||||| |  ||||||||||||||| | ||||||||  | ||||| ||||| || 
+Sbjct  302  TGGCGACATTACTACCAGAACACACAAGGAATTATTTTTGTTGTTGACAGCAATGATAGG  361
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTG-ATGAGGATGCTGAATGAAGATGAACTGAG  381
+            ||| |  | |  ||||||||||| |||||| || |  ||| |  | ||||| ||  | | 
+Sbjct  362  GAACGTTTAGAAGAAGCAAGAGATGAATTGCATAAA-ATGATACAAGAAGAGGAGTTAAA  420
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGA-ATGCTG  440
+            |||| |   | ||||| | ||||| |||||||||||||| ||||||||| |   ||| | 
+Sbjct  421  AGATTCGTACATCCTTATTTTTGCCAACAAACAGGATCTTCCAAATGCTGTTCCATGTT-  479
+
+Query  441  CAGAAATCACAGACAA  456
+            ||||| ||||| ||||
+Sbjct  480  CAGAACTCACAAACAA  495
+
+
+>ref|XM_004891798.1| PREDICTED: Heterocephalus glaber uncharacterized LOC101711014 
+(LOC101711014), transcript variant X1, mRNA
+Length=1735
+
+ Score =   230 bits (124),  Expect = 1e-56
+ Identities = 361/477 (76%), Gaps = 10/477 (2%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | |||||||||||||| |||||||||||||| ||||| || ||  | || ||  
+Sbjct  400  AAATGCGTATTTTGATGGTTGGATTGGATGCTGCTGGCAAGACGACCATTCTATATAAAC  459
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | ||  | || || || ||||| || || || || ||||| || ||||| || ||||| |
+Sbjct  460  TCAAGTTAGGGGAGATCGTCACCACCATTCCTACCATTGGTTTTAATGTGGAAACAGTAG  519
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            |||| ||||||||  | ||||||||||||||||||||||||||||| |||||||| || |
+Sbjct  520  AGTATAAGAACATTTGTTTCACAGTGTGGGATGTTGGTGGCCAAGATAAAATTCGGCCTC  579
+
+Query  261  TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACA  320
+            | ||||||||||| || ||||| || || || || ||||||||| |||| || |||||  
+Sbjct  580  TCTGGAGGCATTACTTCCAGAATACCCAGGGTCTTATTTTTGTGGTAGATAGCAATGATC  639
+
+Query  321  GAGAAAGAGTTGGTGAAGCAAGAGAA-GAATTGATGAGGATGCTGAATGAAGATGAACTG  379
+            | |||||| ||   |||||  |  |  | | |   ||  |||||  | |||||||| |||
+Sbjct  640  GTGAAAGAATTCAGGAAGCC-GCAACCGTACTACAGAATATGCTTCAGGAAGATGAGCTG  698
+
+Query  380  -AGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGA--AT  436
+             || |||||  | || ||  | ||||| |||||||||||| ||||||||||||||   ||
+Sbjct  699  CAG-GATGCAGTGCTGCTGCTTTTTGCAAACAAACAGGATTTGCCAAATGCTATGGCCAT  757
+
+Query  437  GCTGCAGAAATCACAGACAAGCTTGGCCTGCACTCACTTCGTAGTCGTCAATGGTTTATC  496
+             | |  ||||| ||||| ||| | ||||| || || |||||||   |   ||||| | | 
+Sbjct  758  -CAGT-GAAATGACAGATAAGTTGGGCCTTCAGTCTCTTCGTAACAGAACATGGTATGTT  815
+
+Query  497  CAGGCTACATGTGCCACAAGTGGAGACGGCT-TATATGAAGGACTGGATTGGCTGTC  552
+            || || || |||||||||   ||| |||| | | |||||||||||||| ||||||||
+Sbjct  816  CAAGCCACTTGTGCCACACAAGGA-ACGGGTCTGTATGAAGGACTGGACTGGCTGTC  871
+
+
+>gb|GQ279375.1| Marsupenaeus japonicus ADP ribosylation factor 4 mRNA, complete 
+cds
+Length=1315
+
+ Score =   226 bits (122),  Expect = 2e-55
+ Identities = 280/359 (78%), Gaps = 0/359 (0%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||| ||||||||||||||||  | ||||||||||| |||||||| ||||| |||||| | 
+Sbjct  131  ATGCGAATTTTGATGGTTGGGCTTGATGCTGCTGGTAAGACCACCATCTTATACAAGCTT  190
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            ||  | || || |||||||| || || || |||||||| ||||| || || || || |||
+Sbjct  191  AAGTTAGGAGAGATTGTCACCACCATTCCCACAATTGGTTTCAACGTCGAAACTGTCGAG  250
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            ||||||||||||||||||||||||||||| || || || || ||||| || |||||| | 
+Sbjct  251  TACAAGAACATCAGCTTCACAGTGTGGGACGTAGGCGGTCAGGACAAGATCCGACCCTTG  310
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            ||| | |||||||| ||||| || || || ||||| |||||| | ||||| |||||||  
+Sbjct  311  TGGCGACATTATTTCCAGAATACTCAGGGTCTCATCTTTGTGGTGGACAGCAATGACAAG  370
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTGAGA  382
+            || ||| |    |||||   ||| ||| ||   |  ||| ||  ||||||||||||  ||
+Sbjct  371  GAGAGAATCACGGAAGCTTCAGATGAACTGGCAAAAATGTTGCGTGAAGATGAACTTCGA  430
+
+Query  383  GATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+            |||||  || | || |||||||| ||||| || ||| |||| ||||| |||| ||||||
+Sbjct  431  GATGCAGTCTTACTAGTGTTTGCCAACAAGCAAGATTTGCCGAATGCCATGACTGCTGC  489
+
+
+>ref|XM_001899177.1| Brugia malayi ADP-ribosylation factor 4 partial mRNA
+Length=577
+
+ Score =   213 bits (115),  Expect = 1e-51
+ Identities = 353/469 (75%), Gaps = 12/469 (3%)
+ Strand=Plus/Plus
+
+Query  87   GAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAAC  146
+            |||||||||||||||||||||||||||| || || || || || ||||| || |||||  
+Sbjct  90   GAATTTTGATGGTTGGTTTGGATGCTGCAGGGAAAACGACCATTTTGTATAAATTGAAGT  149
+
+Query  147  TGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACA  206
+            ||||||||||||| || || || ||||| ||||| || ||||| || ||||| ||||| |
+Sbjct  150  TGGGTGAAATTGTTACTACTATTCCAACTATTGGATTTAATGTGGAAACAGTAGAGTATA  209
+
+Query  207  AGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGA  266
+            |||| ||    |||||||| ||||||||||| || ||||| ||||| || || |||||||
+Sbjct  210  AGAATATTTCTTTCACAGTTTGGGATGTTGGCGGTCAAGATAAAATCCGCCCACTTTGGA  269
+
+Query  267  GGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGAGAAA  326
+            | || ||||| || || ||||| ||  | || |||||  | || || || ||||||||| 
+Sbjct  270  GACACTATTTCCAAAATACACAGGGCTTAATCTTTGTTGTCGATAGCAACGACAGAGAAC  329
+
+Query  327  GAGTTGGTGAA-GCAAGAGAAGAATTG-ATGAGGATGCTGAATGAAGATGAACTGAGAGA  384
+            |  |||  ||| ||  |||  ||| || || | ||||||    || || |||||  ||||
+Sbjct  330  GTATTGAAGAAAGCC-GAGCTGAACTGCATAA-GATGCTTTCGGAGGACGAACTTCGAGA  387
+
+Query  385  TGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGCAGA  444
+            ||| |   | ||||| ||||| || || || ||| ||||||||||||||| ||| || ||
+Sbjct  388  TGCTACTTTGCTTGTTTTTGCAAATAAGCAAGATTTGCCAAATGCTATGAGTGCCGCTGA  447
+
+Query  445  AATCACAGACAAGCTTGGCCTGCACTCA-CTTCGTAGT-CGTCAATGGTTTATCCAGGCT  502
+            | | || || |||||||| || || | | || || |   || || |||| |||||| || 
+Sbjct  448  ATTAACTGATAAGCTTGGTCTTCA-TAATCTGCG-ATCACGACAGTGGTATATCCAAGCA  505
+
+Query  503  ACATGTGCCAC--AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCT  549
+            || ||||| ||  ||| | | | ||  ||||||||||  ||||||||||
+Sbjct  506  ACTTGTGCAACGCAAG-G-ACATGGTCTATATGAAGGTTTGGATTGGCT  552
+
+
+>ref|NM_001272158.1| Drosophila melanogaster ADP ribosylation factor 102F (Arf102F), 
+transcript variant B, mRNA
+Length=718
+
+ Score =   202 bits (109),  Expect = 3e-48
+ Identities = 356/476 (75%), Gaps = 14/476 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||| ||||||||||||||||| || || ||  ||||||| |
+Sbjct  148  AAATGCGTATTCTTATGGTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAAT  207
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || |||||||||||||| || || || ||||| || || |||||||| ||||| ||||
+Sbjct  208  TAAAGCTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGG  267
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || ||||| ||  | || || || ||||||||||||||||||||||||||||| ||| 
+Sbjct  268  AATATAAGAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCG  326
+
+Query  261  TT-TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            || ||| | || ||||| || || ||||| || || || |||||  | ||    || |||
+Sbjct  327  TTGTGGCGACACTATTTCCAAAATACACAGGGTCTTATATTTGTAGTGGATTCCAACGAC  386
+
+Query  320  AGAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACT  378
+             | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||||||
+Sbjct  387  CGCGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAACT  445
+
+Query  379  GAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+             || || ||  | ||  | || ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  446  TAGGGACGCGGTACTTTTGGTTTTTGCCAACAAACAGGACCTACCGAATGCAATGACAGC  505
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  506  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  563
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCT  549
+            ||| |||||||||| ||  ||| ||  |||| ||| ||||||||||| ||||||||
+Sbjct  564  CAGTCTACATGTGCTACCCAAG-GGC-ACGGTCTT-TATGAAGGACTTGATTGGCT  616
+
+
+>ref|NM_079892.3| Drosophila melanogaster ADP ribosylation factor 102F (Arf102F), 
+transcript variant A, mRNA
+Length=930
+
+ Score =   202 bits (109),  Expect = 3e-48
+ Identities = 356/476 (75%), Gaps = 14/476 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||| ||||||||||||||||| || || ||  ||||||| |
+Sbjct  148  AAATGCGTATTCTTATGGTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAAT  207
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || |||||||||||||| || || || ||||| || || |||||||| ||||| ||||
+Sbjct  208  TAAAGCTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGG  267
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || ||||| ||  | || || || ||||||||||||||||||||||||||||| ||| 
+Sbjct  268  AATATAAGAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCG  326
+
+Query  261  TT-TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            || ||| | || ||||| || || ||||| || || || |||||  | ||    || |||
+Sbjct  327  TTGTGGCGACACTATTTCCAAAATACACAGGGTCTTATATTTGTAGTGGATTCCAACGAC  386
+
+Query  320  AGAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACT  378
+             | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||||||
+Sbjct  387  CGCGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAACT  445
+
+Query  379  GAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+             || || ||  | ||  | || ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  446  TAGGGACGCGGTACTTTTGGTTTTTGCCAACAAACAGGACCTACCGAATGCAATGACAGC  505
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  506  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  563
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCT  549
+            ||| |||||||||| ||  ||| ||  |||| ||| ||||||||||| ||||||||
+Sbjct  564  CAGTCTACATGTGCTACCCAAG-GGC-ACGGTCTT-TATGAAGGACTTGATTGGCT  616
+
+
+>gb|FJ637149.1| Synthetic construct Drosophila melanogaster clone BS12355 encodes 
+Arf102F-RA
+Length=575
+
+ Score =   202 bits (109),  Expect = 3e-48
+ Identities = 356/476 (75%), Gaps = 14/476 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||| ||||||||||||||||| || || ||  ||||||| |
+Sbjct  66   AAATGCGTATTCTTATGGTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAAT  125
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || |||||||||||||| || || || ||||| || || |||||||| ||||| ||||
+Sbjct  126  TAAAGCTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGG  185
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || ||||| ||  | || || || ||||||||||||||||||||||||||||| ||| 
+Sbjct  186  AATATAAGAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCG  244
+
+Query  261  TT-TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            || ||| | || ||||| || || ||||| || || || |||||  | ||    || |||
+Sbjct  245  TTGTGGCGACACTATTTCCAAAATACACAGGGTCTTATATTTGTAGTGGATTCCAACGAC  304
+
+Query  320  AGAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACT  378
+             | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||||||
+Sbjct  305  CGCGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAACT  363
+
+Query  379  GAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+             || || ||  | ||  | || ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  364  TAGGGACGCGGTACTTTTGGTTTTTGCCAACAAACAGGACCTACCGAATGCAATGACAGC  423
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  424  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  481
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCT  549
+            ||| |||||||||| ||  ||| ||  |||| ||| ||||||||||| ||||||||
+Sbjct  482  CAGTCTACATGTGCTACCCAAG-GGC-ACGGTCTT-TATGAAGGACTTGATTGGCT  534
+
+
+>gb|FJ632736.1| Synthetic construct Drosophila melanogaster clone BO13255 encodes 
+Arf102F-RA
+Length=574
+
+ Score =   202 bits (109),  Expect = 3e-48
+ Identities = 356/476 (75%), Gaps = 14/476 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||| ||||||||||||||||| || || ||  ||||||| |
+Sbjct  66   AAATGCGTATTCTTATGGTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAAT  125
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || |||||||||||||| || || || ||||| || || |||||||| ||||| ||||
+Sbjct  126  TAAAGCTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGG  185
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || ||||| ||  | || || || ||||||||||||||||||||||||||||| ||| 
+Sbjct  186  AATATAAGAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCG  244
+
+Query  261  TT-TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            || ||| | || ||||| || || ||||| || || || |||||  | ||    || |||
+Sbjct  245  TTGTGGCGACACTATTTCCAAAATACACAGGGTCTTATATTTGTAGTGGATTCCAACGAC  304
+
+Query  320  AGAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACT  378
+             | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||||||
+Sbjct  305  CGCGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAACT  363
+
+Query  379  GAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+             || || ||  | ||  | || ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  364  TAGGGACGCGGTACTTTTGGTTTTTGCCAACAAACAGGACCTACCGAATGCAATGACAGC  423
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  424  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  481
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCT  549
+            ||| |||||||||| ||  ||| ||  |||| ||| ||||||||||| ||||||||
+Sbjct  482  CAGTCTACATGTGCTACCCAAG-GGC-ACGGTCTT-TATGAAGGACTTGATTGGCT  534
+
+
+>gb|AY071450.1| Drosophila melanogaster RE53354 full length cDNA
+Length=728
+
+ Score =   202 bits (109),  Expect = 3e-48
+ Identities = 356/476 (75%), Gaps = 14/476 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||| ||||||||||||||||| || || ||  ||||||| |
+Sbjct  141  AAATGCGTATTCTTATGGTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAAT  200
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || |||||||||||||| || || || ||||| || || |||||||| ||||| ||||
+Sbjct  201  TAAAGCTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGG  260
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || ||||| ||  | || || || ||||||||||||||||||||||||||||| ||| 
+Sbjct  261  AATATAAGAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCG  319
+
+Query  261  TT-TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGAC  319
+            || ||| | || ||||| || || ||||| || || || |||||  | ||    || |||
+Sbjct  320  TTGTGGCGACACTATTTCCAAAATACACAGGGTCTTATATTTGTAGTGGATTCCAACGAC  379
+
+Query  320  AGAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACT  378
+             | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||||||
+Sbjct  380  CGCGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAACT  438
+
+Query  379  GAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+             || || ||  | ||  | || ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  439  TAGGGACGCGGTACTTTTGGTTTTTGCCAACAAACAGGACCTACCGAATGCAATGACAGC  498
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  499  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  556
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGG-CTTATATGAAGGACTGGATTGGCT  549
+            ||| |||||||||| ||  ||| ||  |||| ||| ||||||||||| ||||||||
+Sbjct  557  CAGTCTACATGTGCTACCCAAG-GGC-ACGGTCTT-TATGAAGGACTTGATTGGCT  609
+
+
+>ref|XM_005061366.1| PREDICTED: Ficedula albicollis ADP-ribosylation factor 3 (ARF3), 
+transcript variant X1, mRNA
+Length=734
+
+ Score =   185 bits (100),  Expect = 3e-43
+ Identities = 162/193 (84%), Gaps = 0/193 (0%)
+ Strand=Plus/Plus
+
+Query  93   TGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTG  152
+            ||||||| ||  |||| |||||||| |||||||| ||| | |||||| | |||||||| |
+Sbjct  120  TGATGGTGGGGCTGGACGCTGCTGGGAAGACCACCATCCTCTACAAGCTCAAACTGGGGG  179
+
+Query  153  AAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACA  212
+            | || ||||| || ||||| || || |||||||| || ||||||||||||||||||||||
+Sbjct  180  AGATCGTCACCACCATCCCCACCATCGGGTTCAACGTCGAGACAGTGGAGTACAAGAACA  239
+
+Query  213  TCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTTTGGAGGCATT  272
+            |||||||||| ||||||||||| ||||| || ||||| || || ||||| ||||||||||
+Sbjct  240  TCAGCTTCACCGTGTGGGATGTGGGTGGGCAGGACAAGATCCGGCCCCTCTGGAGGCATT  299
+
+Query  273  ATTTTCAGAACAC  285
+            | || || |||||
+Sbjct  300  ACTTCCAAAACAC  312
+
+
+>gb|BT082428.1| Anoplopoma fimbria clone afim-evh-507-178 ADP-ribosylation factor 
+1 putative mRNA, complete cds
+Length=779
+
+ Score =   182 bits (98),  Expect = 4e-42
+ Identities = 281/372 (76%), Gaps = 2/372 (1%)
+ Strand=Plus/Plus
+
+Query  83   ATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTG  142
+            ||||| ||| | ||||||||  | |||||||||||||| || || ||| | || ||  ||
+Sbjct  124  ATGAGGATTCTTATGGTTGGGCTCGATGCTGCTGGAAAAACAACCATCCTTTATAAACTG  183
+
+Query  143  AAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAG  202
+            || || || || || ||||| || || || || ||||| || || || || || || || 
+Sbjct  184  AAGCTTGGAGAGATAGTCACCACCATTCCCACCATTGGTTTTAACGTTGAAACTGTAGAA  243
+
+Query  203  TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT  262
+            |||||||||||||||||||||||||||||||| || || || ||||||||  | || || 
+Sbjct  244  TACAAGAACATCAGCTTCACAGTGTGGGATGTGGGCGGTCAGGACAAAATCAGGCCGCTG  303
+
+Query  263  TGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACAGA  322
+            ||| | || || || |||||||| ||||| || || |||||| | ||||| || ||||| 
+Sbjct  304  TGGTGCCACTACTTCCAGAACACTCAAGGGCTTATCTTTGTGGTGGACAGCAACGACAGG  363
+
+Query  323  GAAAGAGTTGGTGAAGCAAGAGAAGAATTGATGAGGATGCT-GAATGAAGATGAACTGAG  381
+            || |||||    || || || || || |||   || ||||| | | || || || || ||
+Sbjct  364  GAGAGAGTGAACGAGGCGAGGGAGGAGTTGTCCAGAATGCTCGCA-GAGGACGAGCTCAG  422
+
+Query  382  AGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGCTGC  441
+            ||| ||  | || || || || || || ||||||||||| || || |||||||| |||||
+Sbjct  423  AGACGCTGTGCTGCTCGTTTTCGCAAATAAACAGGATCTCCCCAACGCTATGAACGCTGC  482
+
+Query  442  AGAAATCACAGA  453
+            ||| ||||||||
+Sbjct  483  AGAGATCACAGA  494
+
+
+>ref|XM_002099605.1| Drosophila yakuba Arf102F (Dyak\Arf102F), mRNA
+Length=543
+
+ Score =   174 bits (94),  Expect = 7e-40
+ Identities = 180/223 (81%), Gaps = 0/223 (0%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | ||||||||||| |||||||| ||||| || || ||  | ||||| |
+Sbjct  50   AAATGCGTATTCTTATGGTTGGTTTAGATGCTGCGGGAAAAACGACTATTCTATACAAAT  109
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | ||||||||||||||||| || || || ||||| || || |||||||| || || ||||
+Sbjct  110  TAAAACTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTTGAAACTGTGG  169
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || || || ||  | ||||| || ||||||||||||||||||||||||||||| ||||
+Sbjct  170  AATATAAAAATATATGTTTCACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCGTCCCC  229
+
+Query  261  TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGT  303
+            | |||||||| ||||| || || ||||| || || || |||||
+Sbjct  230  TGTGGAGGCACTATTTCCAAAATACACAGGGTCTAATATTTGT  272
+
+
+>ref|XM_001982651.1| Drosophila erecta GG16407 (Dere\GG16407), mRNA
+Length=543
+
+ Score =   174 bits (94),  Expect = 7e-40
+ Identities = 350/475 (74%), Gaps = 12/475 (3%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | |||||||||||||||||||| ||||| || || ||  ||||||| |
+Sbjct  50   AAATGCGTATTCTTATGGTTGGTTTGGATGCTGCGGGAAAAACGACTATTCTGTACAAAT  109
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | || || ||||||||||| || || || ||||| ||||| |||||||| || || ||||
+Sbjct  110  TAAAGCTTGGTGAAATTGTAACCACCATACCAACCATTGGCTTCAATGTTGAAACTGTGG  169
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || || || ||  | || || || ||||||||||||||||||||||||||||| ||  
+Sbjct  170  AATATAAAAATATATGTTTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCGTCCGT  229
+
+Query  261  TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGTGATAGACAGTAATGACA  320
+            | ||||| || ||||| || || ||||| || || || |||||  | ||    || ||  
+Sbjct  230  TGTGGAGACACTATTTCCAAAATACACAGGGTCTAATATTTGTAGTGGATTCCAACGATC  289
+
+Query  321  GAGAAAGAGTTGGTGAAGC-AAGAGAAGAATTGATGAGGATGCTGAATGAAGATGAACTG  379
+            | ||  |  |   ||||||  | ||| ||| |   ||  |||||  | || ||||| || 
+Sbjct  290  GTGATCGTATAACTGAAGCTGAAAGA-GAACTACAGAACATGCTCCAGGAGGATGAGCTT  348
+
+Query  380  AGAGATGCCATCCTCCTTG-TGTTTGCGAACAAACAGGATCTGCCAAATGCTATGAATGC  438
+            || |||||  | ||  ||| | ||||| ||||||||||| || || ||||| ||||  ||
+Sbjct  349  AGGGATGCAGTACTT-TTGATTTTTGCTAACAAACAGGACCTACCGAATGCAATGACAGC  407
+
+Query  439  TGCAGAAATCACAGACAAGCTTG-GCCTGCACTCACTTC-GTAGTCGTCAATGGTTTATC  496
+            ||| ||  | || |||||| ||| ||||  || || ||  | | ||| || |||||||| 
+Sbjct  408  TGCCGAGCTTACGGACAAG-TTGCGCCTTAAC-CAATTAAGGAATCGCCACTGGTTTATT  465
+
+Query  497  CAGGCTACATGTGCCAC--AAGTGGAGACGGCTTATATGAAGGACTGGATTGGCT  549
+            ||  |||||||||| ||  ||| |   ||||  ||||||||||||| ||||||||
+Sbjct  466  CAATCTACATGTGCTACCCAAG-GTC-ACGGACTATATGAAGGACTTGATTGGCT  518
+
+
+>gb|AY231946.1| Drosophila yakuba clone yak-em_Arf102F mRNA sequence
+Length=531
+
+ Score =   174 bits (94),  Expect = 7e-40
+ Identities = 180/223 (81%), Gaps = 0/223 (0%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | ||| | ||||||||||| |||||||| ||||| || || ||  | ||||| |
+Sbjct  50   AAATGCGTATTCTTATGGTTGGTTTAGATGCTGCGGGAAAAACGACTATTCTATACAAAT  109
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | ||||||||||||||||| || || || ||||| || || |||||||| || || ||||
+Sbjct  110  TAAAACTGGGTGAAATTGTAACCACCATACCAACCATAGGCTTCAATGTTGAAACTGTGG  169
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            | || || || ||  | ||||| || ||||||||||||||||||||||||||||| ||||
+Sbjct  170  AATATAAAAATATATGTTTCACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCGTCCCC  229
+
+Query  261  TTTGGAGGCATTATTTTCAGAACACACAAGGACTCATTTTTGT  303
+            | |||||||| ||||| || || ||||| || || || |||||
+Sbjct  230  TGTGGAGGCACTATTTCCAAAATACACAGGGTCTAATATTTGT  272
+
+
+>gb|AE014135.3| Drosophila melanogaster chromosome 4, complete sequence
+Length=1351857
+
+ Score =   159 bits (86),  Expect = 2e-35
+ Identities = 167/207 (81%), Gaps = 2/207 (1%)
+ Strand=Plus/Plus
+
+Query  98       GTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATT  157
+                ||||| ||||||||||||||||| || || ||  ||||||| || || ||||||||||||
+Sbjct  1145061  GTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAATTAAAGCTGGGTGAAATT  1145120
+
+Query  158      GTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGC  217
+                || || || || ||||| || || |||||||| ||||| ||||| || ||||| ||  | 
+Sbjct  1145121  GTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGGAATATAAGAATATATGT  1145180
+
+Query  218      TTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT-TGGAGGCATTATTT  276
+                || || || ||||||||||||||||||||||||||||| ||| || ||| | || |||||
+Sbjct  1145181  TTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCGTTGTGGCGACACTATTT  1145239
+
+Query  277      TCAGAACACACAAGGACTCATTTTTGT  303
+                 || || ||||| || || || |||||
+Sbjct  1145240  CCAAAATACACAGGGTCTTATATTTGT  1145266
+
+
+>gb|AC010577.5| Drosophila melanogaster clone BACR22J20, complete sequence
+Length=152661
+
+ Score =   159 bits (86),  Expect = 2e-35
+ Identities = 167/207 (81%), Gaps = 2/207 (1%)
+ Strand=Plus/Minus
+
+Query  98     GTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATT  157
+              ||||| ||||||||||||||||| || || ||  ||||||| || || ||||||||||||
+Sbjct  63532  GTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAATTAAAGCTGGGTGAAATT  63473
+
+Query  158    GTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGC  217
+              || || || || ||||| || || |||||||| ||||| ||||| || ||||| ||  | 
+Sbjct  63472  GTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGGAATATAAGAATATATGT  63413
+
+Query  218    TTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT-TGGAGGCATTATTT  276
+              || || || ||||||||||||||||||||||||||||| ||| || ||| | || |||||
+Sbjct  63412  TTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCGTTGTGGCGACACTATTT  63354
+
+Query  277    TCAGAACACACAAGGACTCATTTTTGT  303
+               || || ||||| || || || |||||
+Sbjct  63353  CCAAAATACACAGGGTCTTATATTTGT  63327
+
+
+>gb|L25062.1|DROARF2A Drosophila melanogaster ADP-ribosylation factor class II (ARF2) 
+gene, complete cds
+Length=941
+
+ Score =   159 bits (86),  Expect = 2e-35
+ Identities = 167/207 (81%), Gaps = 2/207 (1%)
+ Strand=Plus/Plus
+
+Query  98   GTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAAACTGGGTGAAATT  157
+            ||||| ||||||||||||||||| || || ||  ||||||| || || ||||||||||||
+Sbjct  263  GTTGGCTTGGATGCTGCTGGAAAAACGACTATTCTGTACAAATTAAAGCTGGGTGAAATT  322
+
+Query  158  GTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGC  217
+            || || || || ||||| || || |||||||| ||||| ||||| || ||||| ||  | 
+Sbjct  323  GTAACCACCATACCAACCATAGGCTTCAATGTCGAGACTGTGGAATATAAGAATATATGT  382
+
+Query  218  TTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCCTT-TGGAGGCATTATTT  276
+            || || || ||||||||||||||||||||||||||||| ||| || ||| | || |||||
+Sbjct  383  TTTACCGTTTGGGATGTTGGTGGCCAAGACAAAATTCG-CCCGTTGTGGCGACACTATTT  441
+
+Query  277  TCAGAACACACAAGGACTCATTTTTGT  303
+             || || ||||| || || || |||||
+Sbjct  442  CCAAAATACACAGGGTCTTATATTTGT  468
+
+
+>ref|XM_004891799.1| PREDICTED: Heterocephalus glaber uncharacterized LOC101711014 
+(LOC101711014), transcript variant X2, mRNA
+Length=1663
+
+ Score =   158 bits (85),  Expect = 7e-35
+ Identities = 163/202 (81%), Gaps = 0/202 (0%)
+ Strand=Plus/Plus
+
+Query  81   AAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGT  140
+            ||||| | |||||||||||||| |||||||||||||| ||||| || ||  | || ||  
+Sbjct  400  AAATGCGTATTTTGATGGTTGGATTGGATGCTGCTGGCAAGACGACCATTCTATATAAAC  459
+
+Query  141  TGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAGACAGTGG  200
+            | ||  | || || || ||||| || || || || ||||| || ||||| || ||||| |
+Sbjct  460  TCAAGTTAGGGGAGATCGTCACCACCATTCCTACCATTGGTTTTAATGTGGAAACAGTAG  519
+
+Query  201  AGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATTCGACCCC  260
+            |||| ||||||||  | ||||||||||||||||||||||||||||| |||||||| || |
+Sbjct  520  AGTATAAGAACATTTGTTTCACAGTGTGGGATGTTGGTGGCCAAGATAAAATTCGGCCTC  579
+
+Query  261  TTTGGAGGCATTATTTTCAGAA  282
+            | ||||||||||| || |||||
+Sbjct  580  TCTGGAGGCATTACTTCCAGAA  601
+
+
+>emb|CR450743.3| Zebrafish DNA sequence from clone CH211-157H15 in linkage group 
+6, complete sequence
+Length=112295
+
+ Score =   115 bits (62),  Expect = 4e-22
+ Identities = 90/104 (87%), Gaps = 0/104 (0%)
+ Strand=Plus/Minus
+
+Query  185    AATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAA  244
+              ||||| |||||||||||||||||||||||||||||||| ||||||||||||||||| || 
+Sbjct  47601  AATGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACTGTGTGGGATGTTGGTGGTCAG  47542
+
+Query  245    GACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACA  288
+              || |||||  | || || ||||| || || ||||| ||||||||
+Sbjct  47541  GATAAAATCAGGCCGCTCTGGAGACACTACTTTCAAAACACACA  47498
+
+
+>gb|AC166090.23| Glycine max clone gmw1-103e11, complete sequence
+Length=89397
+
+ Score =   115 bits (62),  Expect = 4e-22
+ Identities = 82/92 (89%), Gaps = 0/92 (0%)
+ Strand=Plus/Minus
+
+Query  371    GATGAACTGAGAGATGCCATCCTCCTTGTGTTTGCGAACAAACAGGATCTGCCAAATGCT  430
+              |||||  ||||||||||  | ||||| || ||||| |||||||| ||||| |||||||||
+Sbjct  88264  GATGAGTTGAGAGATGCTGTTCTCCTGGTATTTGCCAACAAACAAGATCTTCCAAATGCT  88205
+
+Query  431    ATGAATGCTGCAGAAATCACAGACAAGCTTGG  462
+              ||||||||||||||||||||||||||||||||
+Sbjct  88204  ATGAATGCTGCAGAAATCACAGACAAGCTTGG  88173
+
+
+>emb|AL953886.9| Zebrafish DNA sequence from clone CH211-241A17 in linkage group 
+6, complete sequence
+Length=154152
+
+ Score =   115 bits (62),  Expect = 4e-22
+ Identities = 90/104 (87%), Gaps = 0/104 (0%)
+ Strand=Plus/Minus
+
+Query  185    AATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAA  244
+              ||||| |||||||||||||||||||||||||||||||| ||||||||||||||||| || 
+Sbjct  23064  AATGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACTGTGTGGGATGTTGGTGGTCAG  23005
+
+Query  245    GACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACA  288
+              || |||||  | || || ||||| || || ||||| ||||||||
+Sbjct  23004  GATAAAATCAGGCCGCTCTGGAGACACTACTTTCAAAACACACA  22961
+
+
+>emb|AL591389.5| Zebrafish DNA sequence from clone BUSM1-202L16 in linkage group 
+6 Contains a novel gene similar to ABCC4 ( ATP-binding cassette, 
+sub-family C (CFTR/MRP), member 4), the sox21a gene 
+(SRY-box containing gene 21a), a novel gene similar to NYD-SP28, 
+a novel gene, a novel gene similar to ARF1 (ADP-ribosylation 
+factor 1) and two CpG islands, complete sequence
+Length=93098
+
+ Score =   115 bits (62),  Expect = 4e-22
+ Identities = 90/104 (87%), Gaps = 0/104 (0%)
+ Strand=Plus/Minus
+
+Query  185    AATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAA  244
+              ||||| |||||||||||||||||||||||||||||||| ||||||||||||||||| || 
+Sbjct  26362  AATGTGGAGACAGTGGAGTACAAGAACATCAGCTTCACTGTGTGGGATGTTGGTGGTCAG  26303
+
+Query  245    GACAAAATTCGACCCCTTTGGAGGCATTATTTTCAGAACACACA  288
+              || |||||  | || || ||||| || || ||||| ||||||||
+Sbjct  26302  GATAAAATCAGGCCGCTCTGGAGACACTACTTTCAAAACACACA  26259
+
+
+>gb|GQ483536.1| Marsupenaeus japonicus ADP-ribosylation factor (Arf) mRNA, complete 
+cds
+Length=1512
+
+ Score = 99.0 bits (53),  Expect = 4e-17
+ Identities = 91/110 (83%), Gaps = 0/110 (0%)
+ Strand=Plus/Plus
+
+Query  134  TACAAGTTGAAACTGGGTGAAATTGTCACAACGATCCCAACAATTGGGTTCAATGTAGAG  193
+            |||||| ||||  |||| ||| ||||  | || || ||||| ||||| ||||| || |||
+Sbjct  207  TACAAGCTGAAGTTGGGCGAAGTTGTTTCGACAATACCAACCATTGGTTTCAACGTCGAG  266
+
+Query  194  ACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCA  243
+            || || || |||||||||||||||||||||||||||||||| || |||||
+Sbjct  267  ACGGTAGAATACAAGAACATCAGCTTCACAGTGTGGGATGTCGGCGGCCA  316
+
+
+>ref|XM_790917.3| PREDICTED: Strongylocentrotus purpuratus E3 ubiquitin-protein 
+ligase TRIM23-like (LOC591350), mRNA
+Length=2044
+
+ Score = 84.2 bits (45),  Expect = 1e-12
+ Identities = 112/143 (78%), Gaps = 10/143 (7%)
+ Strand=Plus/Plus
+
+Query  173   ACAATTGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGAT  232
+             ||||| || |||||||||||||||||||||||||||||  | | ||||||  | ||||| 
+Sbjct  1410  ACAATAGGTTTCAATGTAGAGACAGTGGAGTACAAGAATCTGAACTTCACTATTTGGGAC  1469
+
+Query  233   GTTGGTGGCCAAGACA--AAATTC-GACCCCTTTGGAGGCATTA-T-TTTCAGAACACAC  287
+             || || ||  | ||||  ||| || |||| ||||||| ||| || | ||||  |||||||
+Sbjct  1470  GTAGGAGG--A-GACACCAAACTCAGACCACTTTGGAAGCACTACTATTTC--AACACAC  1524
+
+Query  288   AAGGACTCATTTTTGTGATAGAC  310
+             |||  ||||| |||||  |||||
+Sbjct  1525  AAGCTCTCATCTTTGTAGTAGAC  1547
+
+
+>ref|XM_001819859.2| Aspergillus oryzae RIB40 ADP-ribosylation factor 6, mRNA
+Length=857
+
+ Score = 78.7 bits (42),  Expect = 6e-11
+ Identities = 145/194 (75%), Gaps = 9/194 (5%)
+ Strand=Plus/Plus
+
+Query  80   GAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAG  139
+            |||||| | ||||||||| | |||||||||||||||||||||||||||||  ||||||| 
+Sbjct  351  GAAATGCGGATTTTGATGTTGGGTTTGGATGCTGCTGGAAAGACCACAATTCTGTACAAA  410
+
+Query  140  TTGAAACTGGGTGAA--ATT--GTCACAACGATCCCAACAATTGGGTTCAATGTAGAGAC  195
+             |||| ||    |||  |    || || || ||||| ||  | || || || || || | 
+Sbjct  411  CTGAAGCTCAC-GAACCAGGAGGTTACTACCATCCCCACTGTCGGCTTTAACGTCGA-A-  467
+
+Query  196  AGTGGAG--TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATT  253
+            |||| |   ||||||||  |||  ||||  ||||||||||| |||||||| ||||| || 
+Sbjct  468  AGTGTAACCTACAAGAATGTCAAGTTCAATGTGTGGGATGTCGGTGGCCAGGACAAGATC  527
+
+Query  254  CGACCCCTTTGGAG  267
+            || || || |||||
+Sbjct  528  CGGCCACTATGGAG  541
+
+
+>ref|XM_002374515.1| Aspergillus flavus NRRL3357 ADP-ribosylation factor 6, putative, 
+mRNA
+Length=861
+
+ Score = 78.7 bits (42),  Expect = 6e-11
+ Identities = 145/194 (75%), Gaps = 9/194 (5%)
+ Strand=Plus/Plus
+
+Query  80   GAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAG  139
+            |||||| | ||||||||| | |||||||||||||||||||||||||||||  ||||||| 
+Sbjct  49   GAAATGCGGATTTTGATGTTGGGTTTGGATGCTGCTGGAAAGACCACAATTCTGTACAAA  108
+
+Query  140  TTGAAACTGGGTGAA--ATT--GTCACAACGATCCCAACAATTGGGTTCAATGTAGAGAC  195
+             |||| ||    |||  |    || || || ||||| ||  | || || || || || | 
+Sbjct  109  CTGAAGCTCAC-GAACCAGGAGGTTACTACCATCCCCACTGTCGGCTTTAACGTCGA-A-  165
+
+Query  196  AGTGGAG--TACAAGAACATCAGCTTCACAGTGTGGGATGTTGGTGGCCAAGACAAAATT  253
+            |||| |   ||||||||  |||  ||||  ||||||||||| |||||||| ||||| || 
+Sbjct  166  AGTGTAACCTACAAGAATGTCAAGTTCAATGTGTGGGATGTCGGTGGCCAGGACAAGATC  225
+
+Query  254  CGACCCCTTTGGAG  267
+            || || || |||||
+Sbjct  226  CGGCCACTATGGAG  239
+
+
+>ref|XM_001186642.2| PREDICTED: Strongylocentrotus purpuratus E3 ubiquitin-protein 
+ligase TRIM23-like (LOC754682), partial mRNA
+Length=1246
+
+ Score = 76.8 bits (41),  Expect = 2e-10
+ Identities = 92/116 (79%), Gaps = 6/116 (5%)
+ Strand=Plus/Plus
+
+Query  178   TGGGTTCAATGTAGAGACAGTGGAGTACAAGAACATCAGCTTCACAGTGTGGGATGTTGG  237
+             ||| |||||||||||||||||||||||||||||  | | ||||||  | ||||| || ||
+Sbjct  1134  TGGTTTCAATGTAGAGACAGTGGAGTACAAGAATTTGAACTTCACTATTTGGGACGTAGG  1193
+
+Query  238   TGGCCAAGACA--AAATTC-GACCCCTTTGGAGGCATTATTTTCAGAACACACAAG  290
+              ||  | ||||  ||| || |||||||||||| ||| || | ||  ||||||||||
+Sbjct  1194  AGG--A-GACACCAAACTCAGACCCCTTTGGAAGCACTACTATCTCAACACACAAG  1246
+
+
+>ref|XM_001399874.2| Aspergillus niger CBS 513.88 ADP-ribosylation factor 6, mRNA
+Length=1205
+
+ Score = 76.8 bits (41),  Expect = 2e-10
+ Identities = 51/56 (91%), Gaps = 0/56 (0%)
+ Strand=Plus/Plus
+
+Query  89   ATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAAGTTGAA  144
+            ||||||||| | |||||||||||||||||||||||||||||| | ||||| |||||
+Sbjct  212  ATTTTGATGCTGGGTTTGGATGCTGCTGGAAAGACCACAATCCTCTACAAATTGAA  267
+
+
+>dbj|AB224387.1| Aspergillus oryzae cDNA, contig sequence: AoEST1232
+Length=578
+
+ Score = 76.8 bits (41),  Expect = 2e-10
+ Identities = 53/59 (90%), Gaps = 0/59 (0%)
+ Strand=Plus/Plus
+
+Query  80   GAAATGAGAATTTTGATGGTTGGTTTGGATGCTGCTGGAAAGACCACAATCTTGTACAA  138
+            |||||| | ||||||||| | |||||||||||||||||||||||||||||  |||||||
+Sbjct  478  GAAATGCGGATTTTGATGTTGGGTTTGGATGCTGCTGGAAAGACCACAATTCTGTACAA  536
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Jul 29, 2013  6:14 AM
+  Number of letters in database: 928,720,296
+  Number of sequences in database:  19,024,455
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 19024455
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 3
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 3
+Number of HSP's successfully gapped: 3
+Length of query: 614
+Length of database: 48173360552
+Length adjustment: 33
+Effective length of query: 581
+Effective length of database: 47545553537
+Effective search space: 27623966604997
+Effective search space used: 27623966604997
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+S2: 22 (41.7 bits)
+
+
+
+
